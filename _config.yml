@@ -10,7 +10,7 @@ title: Marco Poetry Chen
 email: marcopchen@gmail.com
 description: 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "marcopchen.github.io" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 twitter_username: marcopchen
 github_username:  marcopchen
 paginate: 5
