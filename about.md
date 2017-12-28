@@ -19,8 +19,12 @@ published: true
     <br>
     <br>
     The following are ways to reach me or see more of me.
-    <a href="https://www.instagram.com/marcopchen/>Instagram</a>
-    <a href="https://www.linkedin.com/in/marcopchen/>LinkedIn</a>
-    <a href="https://github.com/marcopchen/>GitHub</a>
+    <br>
+    <br>
+    <a href="https://www.instagram.com/marcopchen/">Instagram</a>
+    <br>
+    <a href="https://www.linkedin.com/in/marcopchen/">LinkedIn</a>
+    <br>
+    <a href="https://github.com/marcopchen/">GitHub</a>
   </p>
 </div>
