@@ -8,7 +8,7 @@
 # Site settings
 title: Marco Poetry Chen
 email: marcopchen@gmail.com
-description: 
+description:  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 twitter_username: marcopchen
