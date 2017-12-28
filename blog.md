@@ -1,11 +1,11 @@
 ---
-layout: archive
+layout: default
 title: Blog
 permalink: /blog/
 
 ---
 
-<div class="home">
+<div class="blog">
 
 
   {% for post in paginator.posts%}
