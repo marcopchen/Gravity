@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 published: true
 ---
+<div class="about">
+  <p>
     Hi, my name is Marco. 
     
     Welcome to my website. There's not much on here, but I'll continue to add onto it. Feel free to read my blog posts and check out the resources that have helped me. Enjoy!
@@ -17,3 +19,6 @@ published: true
     [Instagram](https://www.instagram.com/marcopchen/)
     [LinkedIn](https://www.linkedin.com/in/marcopchen/)
     [GitHub](https://github.com/marcopchen/)
+    
+  </p>
+</div>
