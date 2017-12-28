@@ -1,11 +1,8 @@
 ---
 layout: default
-title: Blog
-permalink: /blog/
-
 ---
 
-<div class="blog">
+<div class="home">
 
 
   {% for post in paginator.posts%}
@@ -50,7 +47,6 @@ permalink: /blog/
     {% for post in site.posts %}
       <li>
         <span class="post-meta-main">{{ post.date | date: "%b %-d, %Y" }}</span>
-
         <h2>
           <a class="post-link-main" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
