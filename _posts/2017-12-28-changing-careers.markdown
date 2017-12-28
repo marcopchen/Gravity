@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Changing Careers
-date: {}
+date: 2017-12-28
 categories:
   - ''
 published: true
