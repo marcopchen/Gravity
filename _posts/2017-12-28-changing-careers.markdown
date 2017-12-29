@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Changing Careers
+title: Going to a Coding Bootcamp and Changing Careers
 date: {}
 categories:
   - ''
