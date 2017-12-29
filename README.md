@@ -23,7 +23,7 @@
     <a href="https://github.com/marcopchen/">GitHub</a>
   </p>
 </div>
-
+<br>
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
