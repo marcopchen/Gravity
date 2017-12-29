@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Going to a Coding Bootcamp and Changing Careers
-date: {}
+date: 2017-12-29
 categories:
   - ''
 published: true
