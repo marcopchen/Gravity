@@ -35,9 +35,9 @@
 <form action="https://gmail.us8.list-manage.com/subscribe/post?u=f7d0f34dee6cce5f1528b1041&amp;id=8368ffa763" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	<p>Please subscribe to my newsletter if you want to keep up with my life. I pinky promise that I won't spam you. I'll only send e-mails very periodically, and you can unsubscribe at any time.</p>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="indicates-required"></div>
 <div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+	<label for="mce-EMAIL">E-mail Address  <span class="asterisk">*</span>
 </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
