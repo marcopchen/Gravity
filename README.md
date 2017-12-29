@@ -22,7 +22,7 @@
 <div id="mc_embed_signup">
 <form action="https://gmail.us8.list-manage.com/subscribe/post?u=f7d0f34dee6cce5f1528b1041&amp;id=8368ffa763" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<label for="mce-EMAIL">Please subscribe to my mailing list. I promise that I won't spam you, and you can unsubscribe at any time.</label>
+	<label for="mce-EMAIL">Please subscribe to my mailing list. I promise I won't spam you, and you can always unsubscribe!</label>
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_f7d0f34dee6cce5f1528b1041_8368ffa763" tabindex="-1" value=""></div>
