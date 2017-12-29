@@ -140,7 +140,6 @@ h1, h2, h3, h4, h5, h6 {
 a {
     text-decoration: none;
     font-weight: 500;
-    color: #a61717;
     &:hover {
         border-bottom: 1px dotted;
     }
@@ -340,7 +339,6 @@ pre {
   text-transform: capitalize;
   font-weight: 500;
   margin-top: 1em;
-  color: #a61717;
 }
 .site-description {
   font-size: 14px;
@@ -617,13 +615,13 @@ pre {
     .gd .x { color: #000; background-color: #faa } // Generic.Deleted.Specific
     .ge    { font-style: italic } // Generic.Emph
     .gr    { color: #a00 } // Generic.Error
-    .gh    { color: #999 } // Generic.Heading
+    .gh    { color: #a00 } // Generic.Heading
     .gi    { color: #000; background-color: #dfd } // Generic.Inserted
     .gi .x { color: #000; background-color: #afa } // Generic.Inserted.Specific
     .go    { color: #888 } // Generic.Output
     .gp    { color: #555 } // Generic.Prompt
     .gs    { font-weight: bold } // Generic.Strong
-    .gu    { color: #aaa } // Generic.Subheading
+    .gu    { color: #a00 } // Generic.Subheading
     .gt    { color: #a00 } // Generic.Traceback
     .kc    { font-weight: bold } // Keyword.Constant
     .kd    { font-weight: bold } // Keyword.Declaration
