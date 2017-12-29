@@ -138,6 +138,7 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
+    color: black !important;
     text-decoration: none;
     font-weight: 500;
     &:hover {
@@ -325,6 +326,9 @@ pre {
 /**
  * Site header
  */
+#contact li {
+  display: inline-block;
+}
 .site-header {
   border-top: 5px solid;
   border-bottom: 1px solid;
