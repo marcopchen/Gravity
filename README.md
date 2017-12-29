@@ -23,7 +23,7 @@
 <div id="mc_embed_signup">
 <form action="https://gmail.us8.list-manage.com/subscribe/post?u=f7d0f34dee6cce5f1528b1041&amp;id=8368ffa763" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h5>Please subscribe to my newsletter. I promise that I won't spam you, and you can unsubscribe at any time.</h5>
+	<h4>Please subscribe to my newsletter. I promise that I won't spam you, and you can unsubscribe at any time.</h4>
 <div class="indicates-required"></div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">E-mail Address  <span class="asterisk">*</span>
