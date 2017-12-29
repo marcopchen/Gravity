@@ -10,7 +10,7 @@ title: Marco Poetry Chen
 email: marcopchen@gmail.com
 description: Yes, that's my real middle name.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://marcopchen.github.io/" # the base hostname & protocol for your site
+url: "https://marcopchen.github.io" # the base hostname & protocol for your site
 twitter_username: marcopchen
 github_username:  marcopchen
 paginate: 5
