@@ -138,21 +138,21 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: black !important;
+    border-bottom: 1px dotted;
     text-decoration: none;
     font-weight: 500;
     &:hover {
-        border-bottom: 1px dotted;
+        border-bottom: 1px solid;
     }
 
     &.page-link:hover {
-        border-bottom: 1px dotted;
+        border-bottom: 1px solid;
     }
     &.postLink:hover{
-        border-bottom: 1px dotted;
+        border-bottom: 1px solid;
     }
     &.post-title-link:hover{
-        border-bottom: 1px dotted !important;
+        border-bottom: 1px solid !important;
     }
 }
 
