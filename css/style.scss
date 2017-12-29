@@ -325,6 +325,9 @@ pre {
 /**
  * Site header
  */
+.contact li {
+  display: inline;
+}
 .site-header {
   border-top: 5px solid;
   border-bottom: 1px solid;
@@ -338,7 +341,8 @@ pre {
   font-family: 'PT Sans';
   text-transform: capitalize;
   font-weight: 500;
-  margin-top: 1em;
+  margin-top: 0.5em;
+  margin-top: 0.5em;
 }
 .site-description {
   font-size: 14px;
