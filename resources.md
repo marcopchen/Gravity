@@ -10,6 +10,23 @@ published: true
     Below are books, articles, podcasts, products, services, apps, etc. that have helped me on my journey. Please feel free to contact me for help with anything or more info. Some links may benefit me, so I really appreciate using them if you are actually interested. Thank you for the support!
   </p>
   <ul>
+    <h4>Apps/Sites</h4>
+    <li>
+      <a href="https://share.robinhood.com/marcoc199">Robinhood</a>
+      <br>
+        <p>
+          I actually don't recommend in investing in individual stocks. If you know the risk and still want to, I guess you might as well go with Robinhood. We both get a free share of stock if you sign up here.
+        </p>
+    </li>
+    <li>
+      <a href="https://www.coinbase.com/join/5a1b2978d15cc9021e8aad20">Coinbase</a>
+      <br>
+        <p>
+          Going into cryptocurrency is another risky venture, but we both get $10 worth of Bitcoin if you sign up here.
+        </p>
+    </li>
+  </ul>
+  <ul>
     <h4>Credit Cards</h4>
     <li>
       <a href="https://applynow.chase.com/FlexAppWeb/renderApp.do?SPID=FPZY&CELL=61T9&MSC=1540985827">Chase Sapphire Reserve</a>
@@ -29,7 +46,7 @@ published: true
       <a href="https://applynow.chase.com/FlexAppWeb/renderApp.do?SPID=FNLC&CELL=63HB&MSC=1544821958">Chase Sapphire Preferred</a>
       <br>
         <p>
-          This credit card has a sign-up bonus of 50,000 Ultimate Rewards points, and you can get 5,000 more for adding an authorized user who needs to make a purchase. This card also has the 1.25x redemption multiplier. The annual fee is $95 and waived for the first year.
+          This credit card has a sign-up bonus of 50,000 Ultimate Rewards points, and you can get 5,000 more for adding an authorized user. This card also has the 1.25x redemption multiplier. The annual fee is $95 and waived for the first year.
         </p>
     </li>
     <li>
@@ -44,6 +61,13 @@ published: true
       <br>
         <p>
           This credit card has a sign-up bonus of 15,000 Ultimate Rewards points or $150. There is no annual fee.
+        </p>
+    </li>
+    <li>
+      <a href="http://refer.amex.us/MARCOCp1wn?xl=cp15">Amex Gold Delta SkyMiles Business</a>
+      <br>
+        <p>
+          This credit card has a sign-up bonus of 60,000 Delta SkyMiles miles and $50 statement credit. The annual fee is $95 and waived for the first year.
         </p>
     </li>
   </ul>
