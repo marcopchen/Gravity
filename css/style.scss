@@ -111,8 +111,9 @@ figcaption {
  * Lists
  */
 ul, ol {
-    margin-left: $spacing-unit;
+    margin-left: none;
     list-style-type: none;
+    padding: none;
 }
 
 li {
