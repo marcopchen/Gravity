@@ -112,6 +112,7 @@ figcaption {
  */
 ul, ol {
     margin-left: $spacing-unit;
+    list-style-type: none;
 }
 
 li {
@@ -136,8 +137,7 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    font-weight: bold;
-
+    text-decoration: none;
     &:hover {
         border-bottom: 1px dotted;
     }
