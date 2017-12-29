@@ -12,18 +12,7 @@
     I will most likely be discussing other topics on this site such as programming and traveling. Everything in my life is fair game for this site, and I hope you find it at least somewhat interesting. I'd like to think that I think very outside of the box, and I wanted to start blogging to express those thoughts. I also just want to share my adventures!
     <br>
     <br>
-    The following are ways to reach me or see more of me.
-    <br>
-    <a href="https://www.snapchat.com/add/marcopchen">Snapchat</a>
-    <br>
-    <a href="https://www.instagram.com/marcopchen/">Instagram</a>
-    <br>
-    <a href="https://www.linkedin.com/in/marcopchen/">LinkedIn</a>
-    <br>
-    <a href="https://github.com/marcopchen/">GitHub</a>
-  </p>
-</div>
-<br>
+	  
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
