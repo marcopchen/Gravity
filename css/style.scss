@@ -141,17 +141,16 @@ a {
     text-decoration: none;
     font-weight: 500;
     &:hover {
-        border-bottom: 1px dotted;
+        border-bottom: 1px dotted #111111;
     }
-
     &.page-link:hover {
-        border-bottom: 1px dotted;
+        border-bottom: 1px dotted #111111;
     }
     &.postLink:hover{
-        border-bottom: 1px dotted;
+        border-bottom: 1px dotted #111111;
     }
     &.post-title-link:hover{
-        border-bottom: 1px dotted !important;
+        border-bottom: 1px dotted #111111 !important;
     }
 }
 
