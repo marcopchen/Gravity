@@ -138,21 +138,20 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    border-bottom: 1px dotted;
     text-decoration: none;
     font-weight: 500;
     &:hover {
-        border-bottom: 1px solid;
+        border-bottom: 1px dotted;
     }
 
     &.page-link:hover {
-        border-bottom: 1px solid;
+        border-bottom: 1px dotted;
     }
     &.postLink:hover{
-        border-bottom: 1px solid;
+        border-bottom: 1px dotted;
     }
     &.post-title-link:hover{
-        border-bottom: 1px solid !important;
+        border-bottom: 1px dotted !important;
     }
 }
 
@@ -333,7 +332,6 @@ pre {
 .fa {
   text-align: center;
   text-decoration: none;
-  border-radius: 50%;
 }
 .fa-facebook {
   background: #3B5998;
