@@ -330,6 +330,26 @@ pre {
   display: inline-block;
   font-size: 1.75em;
 }
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-snapchat {
+  background: #fffc00;
+  color: white;
+}
 #contact li a .fa {
   transition: 0.5s;
 }
