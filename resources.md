@@ -34,7 +34,7 @@ published: true
       <a href="https://applynow.chase.com/FlexAppWeb/renderApp.do?SPID=FPZY&CELL=61T9&MSC=1540985827">Chase Sapphire Reserve</a>
       <br>
         <p>
-          This credit card has a sign-up bonus of 50,000 Ultimate Rewards points. The card has a steep annual fee of $450, but I consider it to be the greatest card out there for travel. You get $300 credit every year that can be used on anything related to travel and transportation, so that basically cuts the fee down to $150. You get perks such as airport lounge access and what I consider to be the best feature: 1.5x redemption multiplier for travel. This makes your points worth so much more, and you can even pool together points earned from other Chase cards to use. The bonus is worth $500 in cash or $750 in travel.
+          This credit card has a sign-up bonus of 50,000 Ultimate Rewards points, and I consider it to be the greatest card out there for travel. You get $300 credit every year that can be used on anything related to travel and transportation, so that basically cuts the fee down from $450 to $150. You get perks such as airport lounge access and what I consider to be the best feature: 1.5x redemption multiplier for travel. This makes your points worth so much more, and you can even pool together points earned from other Chase cards to use. The bonus is worth $500 in cash or $750 in travel.
         </p>
     </li>
     <li>
