@@ -80,7 +80,7 @@ published: true
       <a href="https://www.airbnb.com/c/marcoc2035">Airbnb</a>
       <br>
         <p>
-          You get $40 off your first booking if you sign up through my link! I've used Airbnb before to save money during travel, but do your research when booking. Hotels can be cheaper than Airbnb in certain locations. If you're ever visiting the Poconos, feel free to book a stay at <a href="https://www.airbnb.com/rooms/15146241">my parent's place</a>! It's a lovely place and has gotten great reviews.
+          You get $40 off your first booking if you sign up through my link! I've used Airbnb before to save money during travel, but do your research when booking. Hotels can be cheaper than Airbnb in certain locations. If you ever find yourself visiting the Poconos, you should book a stay at <a href="https://www.airbnb.com/rooms/15146241">my parent's place</a>! It's a lovely house and has received wonderful reviews.
         </p>
     </li>
     <li>
@@ -101,7 +101,7 @@ published: true
       <a href="https://share.robinhood.com/marcoc199">Robinhood</a>
       <br>
         <p>
-          I actually don't recommend in investing in individual stocks. If you know the risk and still want to, I guess you might as well go with Robinhood. We both get a free share of stock if you sign up here.
+          I actually don't recommend investing in individual stocks. If you know the risk and still want to, I guess you might as well go with Robinhood. We both get a free share of stock if you sign up here.
         </p>
     </li>
     <li>
