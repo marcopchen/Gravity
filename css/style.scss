@@ -328,6 +328,13 @@ pre {
  */
 #contact li {
   display: inline-block;
+  font-size: 2em;
+}
+#contact li a .fa {
+  transition: 0.5s;
+}
+#contact li a:hover .fa {
+  transform: rotateY(360deg);
 }
 .site-header {
   border-top: 5px solid;
