@@ -12,6 +12,7 @@
     I will most likely be discussing other topics on this site such as programming and traveling. Everything in my life is fair game for this site, and I hope you find it at least somewhat interesting. I'd like to think that I think very outside of the box, and I wanted to start blogging to express those thoughts. I also just want to share my adventures!
     <br>
     <br>
+<div class="wrapper">
 	<!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -32,3 +33,4 @@
 </div>
 
 <!--End mc_embed_signup-->
+</div>
