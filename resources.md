@@ -66,7 +66,7 @@ published: true
         </p>
     </li>
     <li>
-      <a href="http://refer.amex.us/MARCOCp1wn?xl=cp15">Amex Gold Delta SkyMiles Business</a>
+      <a href="http://refer.amex.us/MARCOCp1wn?xl=cp15">American Express Gold Delta SkyMiles Business</a>
       <br>
         <p>
           This credit card has a sign-up bonus of 60,000 Delta SkyMiles miles and $50 statement credit. The annual fee is $95 and waived for the first year.
@@ -104,4 +104,3 @@ published: true
           I actually don't recommend investing in individual stocks. If you know the risk and still want to, I guess you might as well go with Robinhood. You get a free share of stock if you sign up here.
         </p>
     </li>
-</div>
