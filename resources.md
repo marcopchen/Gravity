@@ -91,6 +91,13 @@ published: true
         </p>
     </li>
     <li>
+      <a href="joinhoney.com/ref/n0kq1c">Honey</a>
+      <br>
+        <p>
+          Honey has helped me save money by automatically searching for available discount codes in any checkout. You can add it to your browser with a simple click.
+        </p>
+    </li>
+    <li>
       <a href="https://share.robinhood.com/marcoc199">Robinhood</a>
       <br>
         <p>
@@ -104,6 +111,5 @@ published: true
           Going into cryptocurrency is another risky venture, but we both get $10 worth of Bitcoin if you sign up here to do so on Coinbase.
         </p>
     </li>
-    
   </ul>
 </div>
