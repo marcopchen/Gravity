@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Going to a Coding Bootcamp and Changing Careers
+title: Changing Careers and Coding Bootcamps
 date: 2017-12-29
 categories:
   - ''
