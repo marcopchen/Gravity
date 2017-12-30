@@ -7,7 +7,7 @@ published: true
 
 <div class="resources">
   <p>
-    Below are books, blogs, podcasts, products, sites, and apps that have helped me on my journey. Please feel free to contact me for help with anything or more info. Some links may benefit me, so I really appreciate using them if you are actually interested. Thank you for the support!
+    Below are books, blogs, podcasts, products, sites, and apps that have helped me on my journey. Please feel free to contact me for help with anything or more info. The links may benefit me, so I really appreciate using them if you are actually interested. Thank you for the support!
   </p>
   <br>
   <ul>
@@ -80,14 +80,14 @@ published: true
       <a href="https://www.airbnb.com/c/marcoc2035">Airbnb</a>
       <br>
         <p>
-          You get $40 off your first booking if you sign up through my link! I've used Airbnb before to save money during travel, but do your research when booking. Hotels can be cheaper than Airbnb in certain locations. If you ever find yourself visiting the Poconos, you should book a stay at <a href="https://www.airbnb.com/rooms/15146241">my parent's place</a>! It's a lovely house and has received wonderful reviews.
+          Get $40 off your first booking by signing up here! I've used Airbnb before to save money during travel, but do your research when booking. Hotels can be cheaper than Airbnb in certain locations. If you ever find yourself visiting the Poconos, you should book a stay at <a href="https://www.airbnb.com/rooms/15146241">my parent's place</a>! It's a lovely house and has received wonderful reviews.
         </p>
     </li>
     <li>
       <a href="https://turo.com/c/marcoc309">Turo</a>
       <br>
         <p>
-          I've used Turo before to rent a car in the NYC area, and it was pretty cheap. It's kind of like Airbnb, except with cars. Sign up with my link to get $25 off your first booking!
+          I've used Turo before to rent a car in the NYC area, and it was pretty cheap. It's kind of like Airbnb, except with cars. Sign up here to get $25 off your first booking!
         </p>
     </li>
     <li>
@@ -101,15 +101,7 @@ published: true
       <a href="https://share.robinhood.com/marcoc199">Robinhood</a>
       <br>
         <p>
-          I actually don't recommend investing in individual stocks. If you know the risk and still want to, I guess you might as well go with Robinhood. We both get a free share of stock if you sign up here.
+          I actually don't recommend investing in individual stocks. If you know the risk and still want to, I guess you might as well go with Robinhood. You get a free share of stock if you sign up here.
         </p>
     </li>
-    <li>
-      <a href="https://www.coinbase.com/join/5a1b2978d15cc9021e8aad20">Coinbase</a>
-      <br>
-        <p>
-          Going into cryptocurrency is another risky venture, but we both get $10 worth of Bitcoin if you sign up here to do so on Coinbase.
-        </p>
-    </li>
-  </ul>
 </div>
