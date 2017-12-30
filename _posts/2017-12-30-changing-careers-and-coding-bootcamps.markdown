@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Changing Careers and Coding Bootcamps
-date: {}
+date: 2017-12-30
 categories:
   - ''
 published: true
