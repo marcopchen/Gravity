@@ -331,9 +331,9 @@ pre {
   font-size: 1.75em;
 }
 .fa {
-  padding: 20px;
+  padding: 10px;
   font-size: 30px;
-  width: 30px;
+  width: 15px;
   text-align: center;
   text-decoration: none;
   border-radius: 50%;
@@ -350,10 +350,24 @@ pre {
   background: #fffc00;
   color: white;
 }
-#contact li a .fa {
-  transition: 0.5s;
+.fa-instagram {
+  background: #e95950;
+  color: white;
 }
-#contact li a:hover .fa {
+.fa-youtube-play {
+  background: #ff0000;
+  color: white;
+}
+.fa-linkedin-square {
+  background: #007bb5;
+  color: white;
+}
+.fa-github {
+  background: #000000;
+  color: white;
+}
+.fa:hover {
+  transition: 0.5s;
   transform: rotateY(360deg);
 }
 .site-header {
