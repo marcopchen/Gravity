@@ -1,4 +1,7 @@
 ---
+layout: post
+title: 2017 Financial Summary
+date: 2017-12-30
 published: false
 ---
 Here are some updates from my life in 2017.
