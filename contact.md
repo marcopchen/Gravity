@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Marco P. Chen | Contact
 permalink: /contact/
 published: true
 ---
