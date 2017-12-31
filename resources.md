@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Marco P. Chen | Resources
+title: Marco Poetry Chen | Resources
 permalink: /resources/
 published: true
 ---
