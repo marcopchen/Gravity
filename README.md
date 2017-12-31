@@ -1,7 +1,3 @@
----
-title: Marco Poetry Chen | Home
-
----
 <div class="home">
   <p>
     Hi, my name is Marco. 
