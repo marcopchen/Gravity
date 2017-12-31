@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2017 Financial Summary Part 1
-date: {}
+date: 2017-12-31
 published: true
 ---
 Here are some updates from my life in 2017.
