@@ -4,7 +4,9 @@ title: Why You Should Max Out Your 401(k)
 date: 2017-12-30
 published: true
 ---
-Most people only contribute just enough to their [401(k)](https://en.wikipedia.org/wiki/401(k)) to get matched by their employer, but I would always max it out or at least put in as much as I can afford. I'm talking about traditional 401(k), which is what almost everyone with a 401(k) uses anyway. The traditional part means that contributions are made pre-tax. My advice also applies to other retirement accounts. I'll just refer to 401(k) in this post, since that's the most popular.
+Most people only contribute just enough to their [401(k)](https://en.wikipedia.org/wiki/401(k)) to get matched by their employer, but I would always max it out or at least put in as much as I can afford. I don't even get employer contributions at my current job, and I still would max out.
+
+I'm talking about traditional 401(k), which is what almost everyone with a 401(k) uses anyway. The traditional part means that contributions are made pre-tax. My advice also applies to other retirement accounts. I'll just refer to 401(k) in this post, since that's the most popular.
 
 Pre-tax means taken out of one's paycheck before taxes are taken. Contributing pre-tax to retirement accounts lets you avoid paying taxes on that money now, but you pay taxes later when the money is withdrawn. This means more money now to invest with and to grow until you retire. Depending on your income level, you can even lower your tax bracket by making pre-tax contributions. For example, I'm supposed to be at the 25% tax bracket for 2017. Since I put away so much money pre-tax, I should be in the 15% tax bracket instead. That's a 10% difference! Granted, I don't know what the tax brackets will look like in the future when I do have to pay taxes. They've already changed for 2018. All I know is that I can get more money now to invest, so I'll have more money in the future due to compounded returns.
 
