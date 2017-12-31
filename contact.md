@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Marco P. Chen | Contact
+title: Marco Poetry Chen | Contact
 permalink: /contact/
 published: true
 ---
