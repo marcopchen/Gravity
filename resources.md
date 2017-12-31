@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resources
+title: Marco P. Chen | Resources
 permalink: /resources/
 published: true
 ---
