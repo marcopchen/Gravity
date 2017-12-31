@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Gravity!"
 date:   2016-03-30 19:45:31 +0530
-published: true
+published: false
 ---
 Gravity is an unopinionated theme for Jekyll, the awesome static site generator.
 
