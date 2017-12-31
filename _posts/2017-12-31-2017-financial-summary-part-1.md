@@ -4,9 +4,7 @@ title: 2017 Financial Summary Part 1
 date: 2017-12-31
 published: true
 ---
-Here are some updates from my life in 2017.
-
-This first part will be about my investments. Most of my money is in tax-advantaged retirement accounts. That includes [Roth IRA](https://www.bogleheads.org/wiki/Roth_ira), [traditional 401(k)](https://www.bogleheads.org/wiki/401(k)), [457(b)](https://www.bogleheads.org/wiki/457(b)), and [414(h)](https://www.reference.com/business-finance/414h-retirement-plan-2587fc5efe85600e).
+This first part of updates from my life in 2017 will be about my investments. Most of my money is in tax-advantaged retirement accounts. That includes [Roth IRA](https://www.bogleheads.org/wiki/Roth_ira), [traditional 401(k)](https://www.bogleheads.org/wiki/401(k)), [457(b)](https://www.bogleheads.org/wiki/457(b)), and [414(h)](https://www.reference.com/business-finance/414h-retirement-plan-2587fc5efe85600e).
 
 I'll start with the 414(h), since most people probably never heard of it. It's called a pension plan where I work, and it's only for government employees. For me specifically, it's pretty much a glorified savings account earning 5% [compounded interest](https://en.wikipedia.org/wiki/Compound_interest) that I can contribute pre-tax. I wrote [here](https://marcopchen.github.io/2017/12/30/why-you-should-max-out-your-401k.html) why pre-tax is important. 5% return on investment is amazing for no risk. I hope for higher with my other retirement accounts, but those are dependent on the market and carry risk. The current percentage of my paycheck going to my 414(h) is 3.5%, and it'll be 4.5% in 2018. I believe it was 3% when I started in September 2016. I don't choose the percentage. It's based off my salary.
 
