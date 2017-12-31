@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Changing Careers and Coding Bootcamps
-date: 2017-12-30
+date: 2017-12-29
 published: true
 ---
 Yes, I am pursuing a career change.
