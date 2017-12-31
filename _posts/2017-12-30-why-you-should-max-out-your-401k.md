@@ -1,5 +1,8 @@
 ---
-published: false
+layout: post
+title: Changing Careers and Coding Bootcamps
+date: 2017-12-30
+published: true
 ---
 So many people only contribute just enough to their [401(k)](https://en.wikipedia.org/wiki/401(k)) to get matched by their employer, but I would always max it out whenever possible. I'm talking about traditional 401(k), which is what almost everyone with a 401(k) uses anyway. The traditional part means that contributions are made pre-tax. My advice also applies to other retirement accounts. I'll just refer to 401(k) in this post, since that's the most popular.
 
@@ -8,4 +11,3 @@ Pre-tax means taken out of one's paycheck before taxes are taken. Contributing p
 Personally, I contribute pre-tax to 401(k), 457(b), and 414(h). I go Roth for my IRA though, and that means I contribute with post-tax income. One of my favorite bloggers Mad Fientist has makes a great argument [here](https://www.madfientist.com/traditional-ira-vs-roth-ira/) for going traditional with IRA, but I have my reasons for otherwise. First, I like to have some tax diversification. Yes, I'm most likely paying more in taxes now than when I retire. However, I'm not psychic and can't know what tax laws are going to be then. Most of my contributions to retirement accounts is still pre-tax anyway, since the limit for IRA is much lower than the others. I also like the ability to withdraw my contributions from a Roth IRA without penalty at any time. Traditional retirement accounts need one to be age 59.5 to withdraw money (contributed or earned) without penalty, but there are ways around that discussed [here](https://www.madfientist.com/how-to-access-retirement-funds-early/). If I do a Roth ladder conversion, I have to wait 5 years before getting money from a 401(k). Withdrawing contribution money from Roth IRA can be a form of income during that time. This is just how I do things, but feel free to go traditional with IRA.
 
 Folks, please contribute to your 401(k). Even if you don't plan on retiring early like I do, you're getting so much tax benefits from contributing. You will lower your current taxable income! Don't think it's too early to be thinking about retirement. Also, contributing earlier gives you more value than contributing later. That is the power of compounding. For example, $10k invested now will be worth more than $10k invested 10 years from now. That means the more you put away now, the exponentially less you'll have to put away later. Don't wait until you're eating cat food at retirement.
-
