@@ -11,6 +11,36 @@ published: true
   </p>
   <br>
   <ul>
+    <h4>Books</h4>
+    <li>
+      <a target="_blank" href="https://www.amazon.com/gp/product/1533667926/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1533667926&linkCode=as2&tag=marcopchen-20&linkId=340fffe0b2ae0374d3a8c7e5d4a4495e">The Simple Path to Wealth</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=marcopchen-20&l=am2&o=1&a=1533667926" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+      <br>
+        <p>
+          I think this is the book for beginners in financial independence. It breaks everything down very simply. I don't necessarily agree with JL Collins' approach to asset allocation, but the convenience can make sense for people who are new to investing.
+        </p>
+    </li>
+    <li>
+      <a target="_blank" href="https://www.amazon.com/gp/product/1118921283/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1118921283&linkCode=as2&tag=marcopchen-20&linkId=091448ffe9ded959d7f1a10c0db0e95b">The Bogleheads' Guide to Investing</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=marcopchen-20&l=am2&o=1&a=1118921283" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+      <br>
+        <p>
+          This really covers everything on why you should be invested in index funds. You won't doubt the process after reading this. I know it definitely opened my eyes. Bogleheads also have a great wiki that I usually link to in my posts.
+        </p>
+    </li>
+      <a target="_blank" href="https://www.amazon.com/gp/product/0997584718/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0997584718&linkCode=as2&tag=marcopchen-20&linkId=b16d83567afbfd75b7d60f33f4bc3995">Set for Life</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=marcopchen-20&l=am2&o=1&a=0997584718" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+      <br>
+        <p>
+          This one is different than most FI content. It's published by Bigger Pockets, which is all about real estate investing. It's not really about REI, by the book pretty much recommends it as the way to get to financial independence over investing in the stock market.
+        </p>
+    </li>
+        </li>
+      <a target="_blank" href="https://www.amazon.com/gp/product/145973646X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=145973646X&linkCode=as2&tag=marcopchen-20&linkId=0a7a06359fd393d9bdac3076f3e15d9a">The Wealthy Renter</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=marcopchen-20&l=am2&o=1&a=145973646X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+      <br>
+        <p>
+          Most people say that owning a home is a good investment. This book will show you otherwise. In many real state markets, you can actually create more wealth by renting.
+        </p>
+    </li>
+  <br>
+  <ul>
     <h4>Blogs/Podcasts</h4>
     <li>
       <a href="https://www.choosefi.com/">ChooseFI</a>
