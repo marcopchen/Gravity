@@ -4,9 +4,9 @@ title: How I Got into Fullstack Academy
 date: 2018-01-01
 published: true
 ---
-Okay, I’ll be honest. I don’t think it was as hard as many make it out to be.
+Okay, I’ll be honest. I didn’t think it was as hard as many people make it out to be.
 
-I went through why I picked Fullstack Academy here. Something I didn’t mention was that the school seems to be for the cream of the crop, since it has a pretty good reputation. Some reviews said that the application process was harder than other schools’. I didn’t want to pay all this tuition to not be challenged and develop as much as I can. A school that’s harder to get in also means higher quality students to work with and learn from.
+I went through why I picked Fullstack Academy [here](http://marcopchen.com/2017/12/29/changing-careers-and-coding-bootcamps.html). Something I didn’t mention was that the school seems to be for the cream of the crop, since it has a pretty good reputation. Some reviews said that the application process was harder than other schools’. I didn’t want to pay all this tuition to not be challenged and develop as much as I can. A school that’s harder to get in also means higher quality students to work with and learn from.
 
 I pretty much made the decision in summer 2017.  I couldn’t really make a lot of steps towards getting ready for a bootcamp program, because I already had a lot of travel set for the summer. I decided that I would take Fullstack Academy’s bootcamp prep program in September. It cost $650, but the tuition rolls over to the immersive program if you get in. I wasn’t worried about that price, because I was determined to get into Fullstack Academy. I didn’t even apply to any other school.
 
