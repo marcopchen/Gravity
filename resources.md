@@ -33,7 +33,7 @@ published: true
           This one is different than most FI content. It's published by Bigger Pockets, which is all about real estate investing. It's not really about REI, by the book pretty much recommends it as the way to get to financial independence over investing in the stock market.
         </p>
     </li>
-    </li>
+    <li>
       <a target="_blank" href="https://www.amazon.com/gp/product/145973646X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=145973646X&linkCode=as2&tag=marcopchen-20&linkId=0a7a06359fd393d9bdac3076f3e15d9a">The Wealthy Renter</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=marcopchen-20&l=am2&o=1&a=145973646X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
       <br>
         <p>
