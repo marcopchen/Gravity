@@ -10,8 +10,8 @@ published: true
     Below are books, blogs, podcasts, products, sites, and apps that have helped me on my journey. Please feel free to contact me for help with anything or more info. The links may benefit me, so I really appreciate using them if you are actually interested. Thank you for the support!
   </p>
   <br>
-  <ul>
-    <h4>Books</h4>
+  <h4>Books</h4>
+    <ul>
     <li>
       <a target="_blank" href="https://www.amazon.com/gp/product/1533667926/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1533667926&linkCode=as2&tag=marcopchen-20&linkId=340fffe0b2ae0374d3a8c7e5d4a4495e">The Simple Path to Wealth</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=marcopchen-20&l=am2&o=1&a=1533667926" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
       <br>
@@ -40,9 +40,10 @@ published: true
           Most people say that owning a home is a good investment. This book will show you otherwise. In many real state markets, you can actually create more wealth by renting.
         </p>
     </li>
+    </ul>
   <br>
-  <ul>
-    <h4>Blogs/Podcasts</h4>
+  <h4>Blogs/Podcasts</h4>
+    <ul>
     <li>
       <a href=https://www.doctorofcredit.com/>Doctor of Credit</a>
       <br>
@@ -64,10 +65,10 @@ published: true
           Mad Fientist has some amazing posts on specific strategies one can use to get to financial independence. I listen to the podcast, but there haven't been many new episodes.
         </p>
     </li>
-  </ul>
+    </ul>
   <br>
-  <ul>
-    <h4>Credit Cards</h4>
+  <h4>Credit Cards</h4>
+    <ul>
     <li>
       <a href="https://applynow.chase.com/FlexAppWeb/renderApp.do?SPID=FPZY&CELL=61T9&MSC=1540985827">Chase Sapphire Reserve</a>
       <br>
@@ -119,8 +120,8 @@ published: true
     </li>
   </ul>
   <br>
-  <ul>
-    <h4>Apps/Sites</h4>
+  <h4>Apps/Sites</h4>
+    <ul>
     <li>
       <a href="https://www.airbnb.com/c/marcoc2035">Airbnb</a>
       <br>
@@ -156,3 +157,4 @@ published: true
           You probably use Venmo to send money to friends, but we both get $5 if you sign up for Square Cash with my link.
         </p>
     </li>
+    </ul>
