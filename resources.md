@@ -44,6 +44,13 @@ published: true
   <ul>
     <h4>Blogs/Podcasts</h4>
     <li>
+      <a href=https://www.doctorofcredit.com/>Doctor of Credit</a>
+      <br>
+        <p>
+          This is the site to find everything about credit card and bank account bonuses. I always refer to Doctor of Credit to look at details on how to get a bonus, and I also find new bonuses on there to go after.
+        </p>
+    </li>
+    <li>
       <a href="https://www.choosefi.com/">ChooseFI</a>
       <br>
         <p>
