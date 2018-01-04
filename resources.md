@@ -7,10 +7,10 @@ published: true
 
 <div class="resources">
   <p>
-    Below are books, blogs, podcasts, products, sites, and apps that have helped me on my journey. Please feel free to contact me for help with anything or more info. The links may benefit me, so I really appreciate using them if you are actually interested. Thank you for the support!
+    Below are various items that have helped me on my journey. Please feel free to contact me for help with anything or more info. The links may benefit me, so I really appreciate using them if you are actually interested. Thank you for the support!
   </p>
   <br>
-  <h4>Books</h4>
+  <h4>Book</h4>
     <ul>
     <li>
       <a target="_blank" href="https://www.amazon.com/gp/product/1533667926/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1533667926&linkCode=as2&tag=marcopchen-20&linkId=340fffe0b2ae0374d3a8c7e5d4a4495e">The Simple Path to Wealth</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=marcopchen-20&l=am2&o=1&a=1533667926" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -42,7 +42,7 @@ published: true
     </li>
     </ul>
   <br>
-  <h4>Blogs/Podcasts</h4>
+  <h4>Blog/Podcast</h4>
     <ul>
     <li>
       <a href="https://www.doctorofcredit.com/">Doctor of Credit</a>
@@ -52,22 +52,22 @@ published: true
         </p>
     </li>
     <li>
-      <a href="https://www.choosefi.com/">ChooseFI</a>
-      <br>
-        <p>
-          I would say that the ChooseFI podcast is better for beginners, because it does have a lot of episodes on fundamentals and different aspects of financial independence. The site has also stemmed active groups on Facebook.
-        </p>
-    </li>
-    <li>
       <a href="https://www.madfientist.com/">Mad Fientist</a>
       <br>
         <p>
           Mad Fientist has some amazing posts on specific strategies one can use to get to financial independence. I listen to the podcast, but there haven't been many new episodes.
         </p>
     </li>
+    <li>
+      <a href="https://www.choosefi.com/">ChooseFI</a>
+      <br>
+        <p>
+          I would say that the ChooseFI podcast is better for beginners, because it does have a lot of episodes on fundamentals and different aspects of financial independence. It has also stemmed active groups on Facebook.
+        </p>
+    </li>
     </ul>
   <br>
-  <h4>Credit Cards</h4>
+  <h4>Credit Card</h4>
     <ul>
     <li>
       <a href="https://applynow.chase.com/FlexAppWeb/renderApp.do?SPID=FPZY&CELL=61T9&MSC=1540985827">Chase Sapphire Reserve</a>
@@ -120,7 +120,18 @@ published: true
     </li>
   </ul>
   <br>
-  <h4>Apps/Sites</h4>
+  <h4>Bank Account</h4>
+    <ul>
+    <li>
+      <a href="https://www.schwab.com/public/schwab/nn/refer-prospect.html">Charles Schwab</a>
+      <br>
+        <p>
+          I don't get anything from this. You do get $100 from using this link though. I just want everyone to know how good the checking account from Schwab is. There are no monthly fees at all, and you get reimbursed for all ATM fees. This is amazing for international travel or just going anywhere without your usual bank. You can take out money from anywhere without worrying about fees! Whenever I need cash even locally, I don't bother trying to find my bank. I just go to whichever ATM is closest. To open the checking account, you do have to open the brokerage account and get your credit report pulled.
+        </p>
+    </li>
+    </ul>
+  <br>
+  <h4>App/Site</h4>
     <ul>
     <li>
       <a href="https://www.airbnb.com/c/marcoc2035">Airbnb</a>
