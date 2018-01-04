@@ -7,7 +7,7 @@ published: true
 
 <div class="resources">
   <p>
-    Below are various items that have helped me on my journey. Please feel free to contact me for help with anything or more info. The links may benefit me, so I really appreciate using them if you are actually interested. Thank you for the support!
+    Below are various items that have helped me. Please feel free to contact me for more info or help with anything. The links may benefit me, so I really appreciate using them if you are actually interested. Thank you for the support!
   </p>
   <br>
   <h4>Book</h4>
@@ -126,7 +126,7 @@ published: true
       <a href="https://www.schwab.com/public/schwab/nn/refer-prospect.html">Charles Schwab</a>
       <br>
         <p>
-          I don't get anything from this. You do get $100 from using this link though. I just want everyone to know how good the checking account from Schwab is. There are no monthly fees at all, and you get reimbursed for all ATM fees. This is amazing for international travel or just going anywhere without your usual bank. You can take out money from anywhere without worrying about fees! Whenever I need cash even locally, I don't bother trying to find my bank. I just go to whichever ATM is closest. To open the checking account, you do have to open the brokerage account and get your credit report pulled.
+          I don't get anything from this. You do get $100 from using this link though. I just want everyone to know how good the checking account from Schwab is. There are no monthly fees at all, and you get reimbursed for all ATM fees. This is perfect for international travel, so you never have to worry about exchanging money. Whenever I need cash even locally, I don't bother trying to find my bank. I just go to whichever ATM is closest. To open the checking account, you do have to open the brokerage account as well and get your credit report pulled.
         </p>
     </li>
     </ul>
