@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kicking Off the Year in Vegas
-date: 2017-01-08
+date: 2018-01-08
 published: true
 ---
 Let me show you how much my Vegas trip set me back, and I’ll give you a few tips for enjoying your stay there.
