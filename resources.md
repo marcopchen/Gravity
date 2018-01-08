@@ -37,7 +37,7 @@ published: true
       <a target="_blank" href="https://www.amazon.com/gp/product/145973646X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=145973646X&linkCode=as2&tag=marcopchen-20&linkId=0a7a06359fd393d9bdac3076f3e15d9a">The Wealthy Renter</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=marcopchen-20&l=am2&o=1&a=145973646X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
       <br>
         <p>
-          Most people say that owning a home is a good investment. This book will show you otherwise. In many real state markets, you can actually create more wealth by renting.
+          Most people say that owning a home is a good investment. This book will show you otherwise. In many real estate markets, you can actually create more wealth by renting.
         </p>
     </li>
     </ul>
@@ -126,7 +126,7 @@ published: true
       <a href="https://www.schwab.com/public/schwab/nn/refer-prospect.html">Charles Schwab Investor Checking</a>
       <br>
         <p>
-          I don't get anything from this. You do get $100 from using this link though. I just want everyone to know how good the checking account from Schwab is. There are no monthly fees at all, and you get reimbursed for all ATM fees. This is perfect for international travel, so you never have to worry about exchanging money. Whenever I need cash even locally, I don't bother trying to find my bank. I just go to whichever ATM is closest. To open the checking account, you do have to open the brokerage account as well and get your credit report pulled.
+          You get $100 from using this link to sign up. I don't get anything from this. I just want everyone to know how good the checking account from Schwab is. There are no monthly fees at all, and you get reimbursed for all ATM fees. This is perfect for international travel, because you never have to worry about exchanging money. Whenever I need cash even locally, I don't bother trying to find my bank. I just go to whichever ATM is closest. To open the checking account, you do have to open the brokerage account as well and get your credit report pulled.
         </p>
     </li>
     </ul>
