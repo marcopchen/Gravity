@@ -161,11 +161,4 @@ published: true
           I actually don't recommend investing in individual stocks. If you know the risk and still want to, I guess you might as well go with Robinhood. You get a free share of stock if you sign up here.
         </p>
     </li>
-    <li>
-      <a href="https://cash.me/app/FFBDMHV">Square Cash</a>
-      <br>
-        <p>
-          You probably use Venmo to send money to friends, but we both get $5 if you sign up for Square Cash with my link.
-        </p>
-    </li>
     </ul>
