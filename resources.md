@@ -137,7 +137,7 @@ published: true
       <a href="https://www.airbnb.com/c/marcoc2035">Airbnb</a>
       <br>
         <p>
-          Get $40 off your first booking by signing up here! I've used Airbnb before to save money during travel, but do your research when booking. Hotels can be cheaper than Airbnb in certain locations. If you ever find yourself visiting the Poconos, you should book a stay at <a href="https://www.airbnb.com/rooms/15146241">my parent's place</a>! It's a lovely house and has received wonderful reviews.
+          Get $40 off your first booking by signing up here! I've used Airbnb before to save money during travel, but do your research when booking. Hotels can be cheaper than Airbnb in certain locations. If you ever find yourself visiting the Poconos, you should book a stay at <a href="https://www.airbnb.com/rooms/15146241">my parents' place</a>! It's a lovely house and has received wonderful reviews.
         </p>
     </li>
     <li>
