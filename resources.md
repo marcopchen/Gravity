@@ -30,14 +30,14 @@ published: true
       <a target="_blank" href="https://www.amazon.com/gp/product/0997584718/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0997584718&linkCode=as2&tag=marcopchen-20&linkId=b16d83567afbfd75b7d60f33f4bc3995">Set for Life</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=marcopchen-20&l=am2&o=1&a=0997584718" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
       <br>
         <p>
-          This one is different than most FI content. It's published by Bigger Pockets, which is all about real estate investing. It's not really about REI, by the book pretty much recommends it as the way to get to financial independence over investing in the stock market.
+          This one is different than most FI content. It's published by Bigger Pockets, which is a company all about real estate investing. The book itself isn't really focused on REI, but it highly recommends REI as the way to get to financial independence over investing in the stock market.
         </p>
     </li>
     <li>
       <a target="_blank" href="https://www.amazon.com/gp/product/145973646X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=145973646X&linkCode=as2&tag=marcopchen-20&linkId=0a7a06359fd393d9bdac3076f3e15d9a">The Wealthy Renter</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=marcopchen-20&l=am2&o=1&a=145973646X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
       <br>
         <p>
-          Most people say that owning a home is a good investment. This book will show you otherwise. In many real estate markets, you can actually create more wealth by renting.
+          You've probably heard from so many people that owning a home is a good investment. This book will show you otherwise. In many real estate markets, you can actually create more wealth by renting.
         </p>
     </li>
     </ul>
