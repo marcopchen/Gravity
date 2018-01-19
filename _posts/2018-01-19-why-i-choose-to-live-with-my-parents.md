@@ -1,0 +1,20 @@
+---
+layout: post
+title: Why I Choose to Live with My Parents
+date: 2018-01-19
+published: true
+---
+
+This is a conscious decision that I've made for the past few years. As great as it probably would be to live on my own, I think I'll be living with my parents for a while. Keep in mind that I really don't have to, but let me please explain why I do it.
+
+I've been living with my parents for all of the 24 years of my existence. The first opporunity for me to live without them was when I started college. The main reason why I didn't was cost. Fortunately, I went to a school that was close enough for me to commute to. That commute did take me around an hour and 20 minutes everyday between Westchester and Brooklyn, but I was happy to do it to save my parents money. People always asked me why I didn't dorm, but that would have cost at least $10k every year on top of tuition. I was already so grateful of my parents to help with tuition, and I didn't want to put further financial burden on us. It was a family decision.
+
+Now that I've graduated and have a full-time job, I really can afford to live on my own. I wrote [here](http://marcopchen.com/2017/12/31/2017-financial-summary-part-2.html) that I pay $850 every month on maintenance and utilities for where we currently live in the Bronx. I also pay for things like Internet. I just try to help financially whenever I can. Let me compare these costs to what friends pay. For example, I know two different sets of people who live in Brooklyn for $2,500 rent. That comes out to around $833 individually, so it's very comparable to what I pay to live where I live now. The obvious advantage they have is not having parents around.
+
+Why do I choose to pay a similar amount to live with my parents then? I stay, because me paying money elsewhere means more money that my parents would have to pay. To be honest, I actually feel like I owe this to them. As all parents have to do, mine have spent so much money to raise a child. College tuition alone makes me feel indebted for a lifetime. I consider the three of us as a team when it comes to financial decisions. I know they do what's best for all of us, and I do too. I'm not thinking that I would be paying $833 or whatever for rent to live with friends. Instead, I'm thinking that my parents and I would be paying $850 per month plus my rent. That's how my mind works. I feel like my money is their money and vice versa. It's not just living expenses that I help with. For example, I make sure my parents don't have to pay for flights when traveling. Due to credit card rewards, I am able to do that for them.
+
+Most people probably feel like they couldn't live with their parents. I have a great relationship with mine, and we're all fine living with each other. I'm pretty comfortable with my home life as it is now, and the main downside is a longer commute. I'm used to it though. We don't live in Westchester anymore, but my commute to work now and most places in NYC is really close in time to my old commute to school. I've been doing this kind of commute for well over 6 years now, and I have no complaints. I usually watch movies or read books during my commute anyway.
+
+I don't see myself moving out anytime soon. I don't know about years down the line though. I wrote [here](http://marcopchen.com/2017/12/29/changing-careers-and-coding-bootcamps.html) about how I'd like to try living in different places, so I'd obviously leave my parents in that case. As long as my dad and I are working in NYC, I think we'll continue to save money this way. He's turning 60 years old in March though, and he could retire now if he wanted. It seems like my parents want to keep a place in NYC even after retirement, so I'll continue living with them until otherwise. The only thing that would probably motivate me to leave now is a serious relationship, but I don't know if that's ever happening.
+
+Yeah, I'm like Matthew McConaughey in [Failure to Launch](https://en.wikipedia.org/wiki/Failure_to_Launch). Hopefully, the movie on my life doesn't suck as much as that one.
