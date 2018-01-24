@@ -4,6 +4,8 @@ title: 2017 Financial Summary Part 2
 date: 2017-12-31
 published: true
 ---
+*last updated on 1/20/2018*
+
 This second part of my financial summary will be about my expenses, side hustles, etc.
 
 To be honest, I don't track my expenses super closely like most FI bloggers do. I just try to live as frugally as I can without jeopardizing my happiness. Thankfully, I'm happy with not much.
