@@ -4,6 +4,7 @@ title: Why I Choose to Live with My Parents
 date: 2018-01-19
 published: true
 ---
+*last updated on 1/22/2018*
 
 This is a conscious decision that I've made for the past few years. As great as it probably would be to live on my own, I think I'll be living with my parents for a while. Keep in mind that I really don't have to, but please let me explain why I do it.
 
