@@ -4,6 +4,8 @@ title: How I Got into Fullstack Academy
 date: 2018-01-01
 published: true
 ---
+*last updated on 1/19/2018*
+
 Okay, I’ll be honest. I didn’t think it was as hard as many people have made it out to be.
 
 I went through why I picked Fullstack Academy [here](http://marcopchen.com/2017/12/29/changing-careers-and-coding-bootcamps.html). Something I didn’t mention was that the school seems to be for the cream of the crop, since it has a pretty good reputation. Some reviews said that the application process was harder than other schools’. I didn’t want to pay all this tuition to not be challenged and develop as much as I can. A school that’s harder to get in also means higher quality students to work with and learn from.
