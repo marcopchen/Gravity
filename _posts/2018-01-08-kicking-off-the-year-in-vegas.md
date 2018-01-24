@@ -4,6 +4,8 @@ title: Kicking Off the Year in Vegas
 date: 2018-01-08
 published: true
 ---
+*last updated on 1/19/2018*
+
 Let me show you how much my Vegas trip set me back, and I’ll give you a few tips for enjoying your stay there. Also, check out my Instagram for pics from the trip.
 
 The biggest savings were from the flight. I only spent $11.20 by using my miles earned from [Amex Delta SkyMiles Gold Business](https://www262.americanexpress.com/apply-card/business-card/gold-delta-skymiles-business-credit-card/122/47009-9-0-B51931CE59D999C7715AE31DE1C6DACC-201279-9tbEHp2fWIvh2ihC*9sq4rgxxOE=?extlink=US-mgm-inav-copypaste-112-201279-CHSY:0008&cpid=201279). The sign-up bonus was 60,000, and I ended up using 27,000. You could also say that I didn't pay anything at all and even profited, because the bonus offer also included a $50 statement credit from any purchase from Delta. The $11.20 was for tax and fees, which triggered that credit! The flight from JFK to LAS and back cost $345 at the time of booking. One tool I always use when booking flights is [Google Flights](https://www.google.com/flights/), which helps me make sure I'm getting the best price for the time frame I'm looking at.
