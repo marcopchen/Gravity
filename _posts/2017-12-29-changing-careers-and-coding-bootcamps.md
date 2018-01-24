@@ -4,6 +4,8 @@ title: Changing Careers and Coding Bootcamps
 date: 2017-12-29
 published: true
 ---
+*last updated on 1/19/2018*
+
 Yes, I am pursuing a career change.
 
 I have thought about this for so long. I just didn't know what I wanted to do.
