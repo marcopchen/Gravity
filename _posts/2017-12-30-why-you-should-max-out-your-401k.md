@@ -4,7 +4,7 @@ title: Why You Should Max Out Your 401(k)
 date: 2017-12-30
 published: true
 ---
-*last updated on 1/24/2018*
+*- last updated on 1/24/2018*
 
 Most people only contribute just enough to their [401(k)](https://www.bogleheads.org/wiki/401(k)) to get matched by their employer, but I would always max it out or at least put in as much as I can afford. I don't even get employer contributions at my current job, and I still would max out.
 
