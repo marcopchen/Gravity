@@ -4,7 +4,7 @@ title: 2017 Financial Summary Part 1
 date: 2017-12-31
 published: true
 ---
-*- last updated on JAN 24, 2018*
+*- last updated on JAN 24, 2018 -*
 
 This first part of updates from my life in 2017 will be about my investments. Most of my money is in tax-advantaged retirement accounts. That includes [Roth IRA](https://www.bogleheads.org/wiki/Roth_ira), [traditional 401(k)](https://www.bogleheads.org/wiki/401(k)), [457(b)](https://www.bogleheads.org/wiki/457(b)), and [414(h)](https://www.reference.com/business-finance/414h-retirement-plan-2587fc5efe85600e).
 
@@ -26,6 +26,6 @@ I did recently just add a fund that tracks the [S&P 400](https://en.wikipedia.or
 
 I do have a fund option for international stocks available in my 401(k)/457(b), but that also has a high expense ratio. Expense ratio (ER) is what I mean by fund fees, and minimizing fees is vital for maximizing returns. You can't predict future returns, but your current fees are known. The average ER across all my funds is a little over 0.05%. To get exposure to the international stock market, I use a single fund from Charles Schwab in my Roth IRA. This particular fund [SWISX](http://www.schwab.wallst.com/Prospect/Research/mutualfunds/portfolio.asp?symbol=SWISX) doesn't have exposure to the Canadian market, emerging markets, and the international small-cap market. This is sort of like the difference between tracking the total U.S. stock market and tracking the S&P 500. Again, I think I'll be fine.
 
-I will most likely keep this overall asset allocation for the foreseeable future. I have to manually buy and sell funds to adjust my Roth IRA, so I'm just going to keep everything there in one fund for now. It works out to a percentage of my overall portfolio that I'm comfortable with anyway. For my 401(k)/457(b), I just set the percentages for what funds I want. My portfolio there gets automatically [rebalanced](https://www.bogleheads.org/wiki/Rebalancing) accordingly. Of course, my overall allocation will change depending on returns and additional contributions. When I switch jobs, I'll also have a different 401(k) plan with different fund options. I'll cross that bridge when the time comes.
+I will most likely keep this overall asset allocation for the foreseeable future. I have to manually buy and sell funds to adjust my Roth IRA portfolio, so I'm just going to keep everything in one fund for now. It works out to a percentage of my overall portfolio that I'm comfortable with anyway. For my 401(k)/457(b), I just set the percentages for what funds I want. My portfolio there gets automatically [rebalanced](https://www.bogleheads.org/wiki/Rebalancing) accordingly. Of course, my overall allocation will change depending on returns and additional contributions. When I switch jobs, I'll also have a different 401(k) plan with different fund options. I'll cross that bridge when the time comes.
 
 Sorry for the long post. It's my first year with this stuff, and I want to document it thoroughly. There's still a second part to my financial summary to talk about everything outside of investments!
