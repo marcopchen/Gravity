@@ -3,16 +3,13 @@
     Hi, my name is Marco. 
     <br>
     <br>
-    Welcome to my website. There's not much on here yet, but I'll continue to add onto it. Feel free to read my blog posts and check out the resources that have helped me. Enjoy!
+    Welcome to my website. There's not much on here yet, but I'll continue to add onto it. Feel free to read my blog posts and check out the resources that have helped me. Enjoy and share the knowledge!
     <br>
     <br>
     This site will mostly be about personal finance, and it'll document my path to <a href="https://www.reddit.com/r/financialindependence/wiki/faq">financial independence</a>. Simply put, financial independence means having enough wealth or passive income to live without needing to work. It can be referred to as FI or FIRE. I'll talk about the steps I'm taking and plans moving forward. My hope is to help others work towards their freedom. That's what financial independence is really about, and I think it's a worthwhile goal for anybody.
     <br>
     <br>
     I will most likely be discussing other topics on this site such as programming and traveling. Everything in my life is fair game for the site, and I hope you find it at least somewhat interesting. I'd like to think that I think very outside of the box, and I wanted to start blogging to express those thoughts. I also just want to share my adventures!
-    <br>
-    <br>
-    Enjoy and share the knowledge!
     <br>
     <br>
 <div class="wrapper">
