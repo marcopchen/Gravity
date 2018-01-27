@@ -4,7 +4,7 @@ title: Kicking Off the Year in Vegas
 date: 2018-01-08
 published: true
 ---
-*- last updated on JAN 19, 2018*
+*- last updated on JAN 19, 2018 -*
 
 Let me show you how much my Vegas trip set me back, and I’ll give you a few tips for enjoying your stay there. Also, check out my Instagram for pics from the trip.
 
