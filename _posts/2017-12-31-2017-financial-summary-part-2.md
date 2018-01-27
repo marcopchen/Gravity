@@ -4,7 +4,7 @@ title: 2017 Financial Summary Part 2
 date: 2017-12-31
 published: true
 ---
-*- last updated on JAN 20, 2018*
+*- last updated on JAN 20, 2018 -*
 
 This second part of my financial summary will be about my expenses, side hustles, etc.
 
