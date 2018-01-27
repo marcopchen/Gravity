@@ -4,7 +4,7 @@ title: How I Got into Fullstack Academy
 date: 2018-01-01
 published: true
 ---
-*- last updated on JAN 19, 2018*
+*- last updated on JAN 19, 2018 -*
 
 Okay, I’ll be honest. I didn’t think it was as hard as many people have made it out to be.
 
