@@ -4,7 +4,7 @@ title: Changing Careers and Coding Bootcamps
 date: 2017-12-29
 published: true
 ---
-*- last updated on JAN 19, 2018*
+*- last updated on JAN 19, 2018 -*
 
 Yes, I am pursuing a career change.
 
