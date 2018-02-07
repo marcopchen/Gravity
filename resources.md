@@ -105,14 +105,14 @@ published: true
         </p>
     </li>
     <li>
-      <a href="http://refer.amex.us/MARCOCe6Ei?XLINK=MYCP">American Express Business Rewards Gold</a>
+      <a href="http://refer.amex.us/MARCOC2zyG?xl=cp15">American Express Business Rewards Gold</a>
       <br>
         <p>
           This credit card has a sign-up bonus of 50,000 Membership Rewards points. The annual fee is $175 and waived for the first year.
         </p>
     </li>
     <li>
-      <a href="http://refer.amex.us/MARCOCp1wn?xl=cp15">American Express Gold Delta SkyMiles Business</a>
+      <a href="http://refer.amex.us/MARCOCYcVR?xl=cp15">American Express Gold Delta SkyMiles Business</a>
       <br>
         <p>
           This credit card has a sign-up bonus of 60,000 Delta SkyMiles miles and $50 statement credit. The annual fee is $95 and waived for the first year.
