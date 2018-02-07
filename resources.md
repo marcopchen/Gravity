@@ -115,7 +115,7 @@ published: true
       <a href="http://refer.amex.us/MARCOCYcVR?xl=cp15">American Express Gold Delta SkyMiles Business</a>
       <br>
         <p>
-          This credit card has a sign-up bonus of 60,000 Delta SkyMiles miles and $50 statement credit. The annual fee is $95 and waived for the first year.
+          This credit card has a sign-up bonus of 30,000 Delta SkyMiles miles and $50 statement credit. The annual fee is $95 and waived for the first year.
         </p>
     </li>
   </ul>
