@@ -4,7 +4,7 @@ title: 2017 Financial Summary Part 1
 date: 2017-12-31
 published: true
 ---
-*- last updated on JAN 30, 2018 -*
+*- last updated on FEB 9, 2018 -*
 
 This first part of updates from my life in 2017 will be about my investments. Most of my money is in tax-advantaged retirement accounts. That includes [Roth IRA](https://www.bogleheads.org/wiki/Roth_ira), [traditional 401(k)](https://www.bogleheads.org/wiki/401(k)), [457(b)](https://www.bogleheads.org/wiki/457(b)), and [414(h)](https://www.reference.com/business-finance/414h-retirement-plan-2587fc5efe85600e).
 
