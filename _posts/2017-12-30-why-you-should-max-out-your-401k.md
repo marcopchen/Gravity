@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You Should Max Out Your 401(k)
+title: Stop and Max Out Your 401(k) Right Now
 date: 2017-12-30
 published: true
 ---
