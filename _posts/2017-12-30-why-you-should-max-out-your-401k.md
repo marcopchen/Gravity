@@ -6,7 +6,7 @@ published: true
 ---
 *- last updated on FEB 9, 2018 -*
 
-Most people only contribute just enough to their [401(k)](https://www.bogleheads.org/wiki/401(k)) to get matched by their employer, but I would always max it out or at least put in as much as I can afford. I don't even get employer contributions at my current job, and I still would max out.
+Most people only contribute just enough to their [401(k)](https://www.bogleheads.org/wiki/401(k)) to get matched by their employer, but I would always max it out or at least put in as much as I can afford. Even without employer contributions, I still would max out.
 
 Let me first discuss the power of compounding. Compounding means you get returns off the previous returns. That's what makes your money grow exponentially, so $10k invested right now will be worth exponentially more than $10k invested 20 years from now. That means the more you put away now, the exponentially less you'll have to put away later. This applies to saving and investing with any kind of account. It doesn't have to be a retirement account, but a retirement account can help you end up with even more money through tax advantages.
 
