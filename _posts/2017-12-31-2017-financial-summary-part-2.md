@@ -6,7 +6,7 @@ published: true
 ---
 *- last updated on JAN 20, 2018 -*
 
-This second part of my financial summary will be about my expenses, side hustles, etc.
+This second part of my financial summary will be about my expenses, side hustles, etc. The first part is [here](http://marcopchen.com/2017/12/31/2017-financial-summary-part-2.html).
 
 To be honest, I don't track my expenses super closely like most FI bloggers do. I just try to live as frugally as I can without jeopardizing my happiness. Thankfully, I'm happy with not much.
 
