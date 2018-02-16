@@ -16,7 +16,7 @@ published: true
       <a target="_blank" href="https://www.amazon.com/gp/product/1533667926/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1533667926&linkCode=as2&tag=marcopchen-20&linkId=340fffe0b2ae0374d3a8c7e5d4a4495e">The Simple Path to Wealth</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=marcopchen-20&l=am2&o=1&a=1533667926" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
       <br>
         <p>
-          I think this is the book for beginners in financial independence. It breaks everything down very simply. I don't necessarily agree with JL Collins' approach to asset allocation, but the convenience can make sense for people who are new to investing.
+          I think this is the book for beginners in financial independence. It breaks everything down very simply. I don't necessarily agree with the author JL Collins' approach to asset allocation, but the convenience can make sense for people who are new to investing.
         </p>
     </li>
     <li>
@@ -62,7 +62,7 @@ published: true
       <a href="https://www.choosefi.com/">ChooseFI</a>
       <br>
         <p>
-          I would say that the ChooseFI podcast is better for beginners, because it does have a lot of episodes on fundamentals and different aspects of financial independence. It has also stemmed active groups on Facebook.
+          I would say that the ChooseFI podcast is better for beginners, because it does have a lot of episodes on fundamentals and different aspects of financial independence with more instruction. It has also stemmed active groups on Facebook.
         </p>
     </li>
     </ul>
