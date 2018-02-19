@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Switched Internet Service Providers to Save Money
+title: Slashing My Internet Bill by Two-Thirds
 date: 2018-02-18
 published: true
 ---
