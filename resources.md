@@ -126,7 +126,7 @@ published: true
       <a href="https://www.schwab.com/public/schwab/nn/refer-prospect.html">Charles Schwab Checking and Brokerage</a>
       <br>
         <p>
-          You get $100 from using this link to sign up. I don't get anything from this. I just want everyone to know how good the checking account from Schwab is. There are no monthly fees at all, and you get reimbursed for all ATM fees. This is perfect for international travel, because you never have to worry about exchanging money. Whenever I need cash even locally, I don't bother trying to find my bank. I just go to whichever ATM is closest. To open the checking account, you do have to open the brokerage account as well and get your credit report pulled. Once you open the brokerage account with Schwab, you can do any kind of investing there. For example, I set up my Roth IRA with Schwab.
+          You get $100 from using this link to sign up. I don't get anything from this. I just want everyone to know how good the checking account from Schwab is. There are no monthly fees at all, and you get reimbursed for all ATM fees. This is perfect for international travel, because you never have to worry about exchanging money. Whenever I need cash even locally, I just go to any ATM. To open the checking account, you do have to open the brokerage account as well and get your credit report pulled. Once you open the brokerage account with Schwab, you can do any kind of investing there. For example, I set up my Roth IRA with Schwab.
         </p>
     </li>
     </ul>
