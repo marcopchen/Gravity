@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Slashing My Internet Bill by Two-Thirds
+title: Slashed My Internet Bill by Two-Thirds
 date: 2018-02-18
 published: true
 ---
