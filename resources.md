@@ -37,7 +37,7 @@ published: true
       <a target="_blank" href="https://www.amazon.com/gp/product/145973646X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=145973646X&linkCode=as2&tag=marcopchen-20&linkId=0a7a06359fd393d9bdac3076f3e15d9a">The Wealthy Renter</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=marcopchen-20&l=am2&o=1&a=145973646X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
       <br>
         <p>
-          You've probably heard from so many people that owning a home is a good investment. This book will show you otherwise. In many real estate markets, you can actually create more wealth by renting.
+          You've probably heard from everyone and their mothers that owning your home to live in is a good investment. Renting is throwing away money, right? This book will show you otherwise. In many real estate markets, you can actually create more wealth by renting and investing elsewhere.
         </p>
     </li>
     </ul>
