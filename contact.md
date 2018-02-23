@@ -12,4 +12,5 @@ published: true
     <br>
     Feel free to message me about anything! I'll be sure to respond if you leave an e-mail address.
   </p>
+  {% include contact.html %}
 </div>
