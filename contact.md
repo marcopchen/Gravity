@@ -13,4 +13,6 @@ published: true
     Feel free to message me about anything! I'll be sure to respond if you leave an e-mail address.
   </p>
 </div>
+<div class="container">
 {% include contact.html %}
+</div>
