@@ -48,7 +48,7 @@ published: true
       <a href="https://www.doctorofcredit.com/">Doctor of Credit</a>
       <br>
         <p>
-          This is the site for everything on credit card and bank account bonuses. I always refer to Doctor of Credit to see details on how to get a bonus, and I find out about new bonuses on there.
+          This site has everything on credit card and bank account bonuses. I always refer to Doctor of Credit for details on how to get a bonus, and it's where I find out about new bonuses.
         </p>
     </li>
     <li>
