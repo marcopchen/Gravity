@@ -119,6 +119,13 @@ published: true
         </p>
     </li>
     <li>
+      <a href="http://refer.amex.us/MARCOCXtzi?xl=cp15">American Express Starwood Preferred Guest</a>
+      <br>
+        <p>
+          This credit card has a sign-up bonus of 25,000 Starpoints. The annual fee is $95 and waived for the first year.
+        </p>
+    </li>
+    <li>
       <a href="http://refer.amex.us/MARCOCjAu6?XLINK=MYCP">American Express Blue Business Plus</a>
       <br>
         <p>
