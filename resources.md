@@ -84,21 +84,21 @@ published: true
         </p>
     </li>
     <li>
-      <a href="https://applynow.chase.com/FlexAppWeb/renderApp.do?SPID=FNLC&CELL=63HB&MSC=1544821958">Chase Sapphire Preferred</a>
+      <a href="https://www.referyourchasecard.com/6/RICVDGYZV6">Chase Sapphire Preferred</a>
       <br>
         <p>
           This credit card has a sign-up bonus of 50,000 Ultimate Rewards points, and you can get 5,000 more for adding an authorized user. This card also has the 1.25x redemption multiplier. The annual fee is $95 and waived for the first year.
         </p>
     </li>
     <li>
-      <a href="https://applynow.chase.com/FlexAppWeb/renderApp.do?SPID=FNS7&CELL=63HB&MSC=1532530899">Chase Freedom</a>
+      <a href="https://www.referyourchasecard.com/2/YZ4R7PUANI">Chase Freedom</a>
       <br>
         <p>
           This credit card has a sign-up bonus of 15,000 Ultimate Rewards points or $150. There is no annual fee.
         </p>
     </li>
     <li>
-      <a href="https://applynow.chase.com/FlexAppWeb/renderApp.do?SPID=FNRV&CELL=63HB&MSC=1535221495">Chase Freedom Unlimited</a>
+      <a href="https://www.referyourchasecard.com/18/S6N1X19M62">Chase Freedom Unlimited</a>
       <br>
         <p>
           This credit card has a sign-up bonus of 15,000 Ultimate Rewards points or $150. There is no annual fee.
