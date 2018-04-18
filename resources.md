@@ -91,14 +91,14 @@ published: true
         </p>
     </li>
     <li>
-      <a href="https://www.referyourchasecard.com/2/YZ4R7PUANI">Chase Freedom</a>
+      <a href="https://www.referyourchasecard.com/2/9RIFUC4UF0">Chase Freedom</a>
       <br>
         <p>
           This credit card has a sign-up bonus of 15,000 Ultimate Rewards points or $150. There is no annual fee.
         </p>
     </li>
     <li>
-      <a href="https://www.referyourchasecard.com/18/S6N1X19M62">Chase Freedom Unlimited</a>
+      <a href="https://www.referyourchasecard.com/18/YP4V4HOO4F">Chase Freedom Unlimited</a>
       <br>
         <p>
           This credit card has a sign-up bonus of 15,000 Ultimate Rewards points or $150. There is no annual fee.
@@ -118,13 +118,13 @@ published: true
           This credit card has a sign-up bonus of 30,000 Delta SkyMiles miles and $50 statement credit. The annual fee is $95 and waived for the first year.
         </p>
     </li>
-    <li>
+<!--     <li>
       <a href="http://refer.amex.us/MARCOCXtzi?xl=cp15">American Express Starwood Preferred Guest</a>
       <br>
         <p>
           This credit card has a sign-up bonus of 25,000 Starpoints. The annual fee is $95 and waived for the first year.
         </p>
-    </li>
+    </li> -->
     <li>
       <a href="http://refer.amex.us/MARCOCjAu6?XLINK=MYCP">American Express Blue Business Plus</a>
       <br>
