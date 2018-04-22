@@ -4,11 +4,11 @@ title: Kicking Off the Year in Vegas
 date: 2018-01-08
 published: true
 ---
-*- last updated on JAN 19, 2018 -*
+*- last updated on APR 22, 2018 -*
 
 Let me show you how much my Vegas trip set me back, and I’ll give you a few tips for enjoying your stay there. Also, check out my Instagram for pics from the trip.
 
-The biggest savings were from the flight. I only spent $11.20 by using my miles earned from [Amex Delta SkyMiles Gold Business](https://mgmee.americanexpress.com/refer/mgmee/open/us/en/E1A6822F907345B95E141CD9CEE8D98568D6122BE865438F0B7E40087C6C4B6A3B263AECEF3B4DCA7A97816D2FF8F7165BE0D692F608F69556C07EA2876FDED39BB8750BE96F3865FD67A3F8262D3AA53856B23E70411B3878E50D5137B869E70EB8A296CE26A3A6BE925426021C3CE48976DAE39EFF6511977588A195BB0F25554F3452A5D5485E4A9268FE1230EA43?GENCODE=349992502053448&extlink=US-mgm-inav-copypaste-112-201279-GA47:0001&cpid=201279&CORID=M:A:R:C:O:C:Y:c:V:R-1524420675605-641634435). The sign-up bonus was 60,000, and I ended up using 27,000. You could also say that I didn't pay anything at all and even profited, because the bonus offer also included a $50 statement credit from any purchase from Delta. The $11.20 was for tax and fees, which triggered that credit! The flight from JFK to LAS and back cost $345 at the time of booking. One tool I always use when booking flights is [Google Flights](https://www.google.com/flights/), which helps me make sure I'm getting the best price for the time frame I'm looking at.
+The biggest savings were from the flight. I only spent $11.20 by using my miles earned from [Amex Delta SkyMiles Gold Business](https://mgmee.americanexpress.com/refer/mgmee/open/us/en/E1A6822F907345B95E141CD9CEE8D98568D6122BE865438F0B7E40087C6C4B6A3B263AECEF3B4DCA7A97816D2FF8F7165BE0D692F608F69556C07EA2876FDED39BB8750BE96F3865FD67A3F8262D3AA53856B23E70411B3878E50D5137B869E70EB8A296CE26A3A6BE925426021C3CE48976DAE39EFF6511977588A195BB0F25554F3452A5D5485E4A9268FE1230EA43?GENCODE=349992502053448&extlink=US-mgm-inav-copypaste-112-201279-GA47:0001&cpid=201279&CORID=M:A:R:C:O:C:Y:c:V:R-1524420675605-641634435). The sign-up bonus for me was 60,000 miles, and I ended up using 27,000 to get the flight. You could also say that I actually didn't pay anything at all, since the bonus offer also included a $50 statement credit from any purchase from Delta. The $11.20 was for tax and fees, which triggered that credit! The flight from JFK to LAS and back cost $345 at the time of booking, so that's how much I saved. One tool I always use when booking flights is [Google Flights](https://www.google.com/flights/), which helps me make sure I'm getting the best price for the time frame I'm looking at.
 
 ![Screen Shot 2017-11-26 at 7.46.19 PM.png](https://i.imgur.com/rrSX2Ko.png)
 
