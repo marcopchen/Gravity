@@ -105,10 +105,24 @@ published: true
         </p>
     </li>
     <li>
-      <a href="http://refer.amex.us/MARCOC2zyG?xl=cp15">American Express Business Rewards Gold</a>
+      <a href="http://refer.amex.us/MARCOCB925?xl=cp27">American Express Business Rewards Gold</a>
       <br>
         <p>
           This credit card has a sign-up bonus of 50,000 Membership Rewards points. The annual fee is $175 and waived for the first year.
+        </p>
+    </li>
+    <li>
+      <a href="http://refer.amex.us/MARCOCnrec?XLINK=MYCP">American Express Premier Rewards Gold</a>
+      <br>
+        <p>
+          This credit card has a sign-up bonus of 25,000 Membership Rewards points. The annual fee is $195 and waived for the first year.
+        </p>
+    </li>
+    <li>
+      <a href="http://refer.amex.us/MARCOCjAu6?XLINK=MYCP">American Express Blue Business Plus</a>
+      <br>
+        <p>
+          This credit card has a sign-up bonus of 10,000 Membership Rewards points. There is no annual fee.
         </p>
     </li>
     <li>
@@ -116,20 +130,6 @@ published: true
       <br>
         <p>
           This credit card has a sign-up bonus of 30,000 Delta SkyMiles miles and $50 statement credit. The annual fee is $95 and waived for the first year.
-        </p>
-    </li>
-<!--     <li>
-      <a href="http://refer.amex.us/MARCOCXtzi?xl=cp15">American Express Starwood Preferred Guest</a>
-      <br>
-        <p>
-          This credit card has a sign-up bonus of 25,000 Starpoints. The annual fee is $95 and waived for the first year.
-        </p>
-    </li> -->
-    <li>
-      <a href="http://refer.amex.us/MARCOCjAu6?XLINK=MYCP">American Express Blue Business Plus</a>
-      <br>
-        <p>
-          This credit card has a sign-up bonus of 10,000 Membership Rewards points. There is no annual fee.
         </p>
     </li>
   </ul>
