@@ -9,7 +9,6 @@ published: true
   <p>
     Below are various items that have helped me. Please feel free to contact me for more info or help with anything. The links may benefit me, so I really appreciate using them if you are actually interested. Thank you for the support!
   </p>
-  <br>
   <h4>Book</h4>
     <ul>
     <li>
