@@ -7,7 +7,7 @@ published: true
 
 <div class="portfolio">
   <p>
-    Below are some projects that I've worked on.
+    The following are a few projects that I've worked on.
   </p>
   <h4>Don Dapper</h4>
   <ul>
