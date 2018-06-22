@@ -12,7 +12,19 @@ published: true
   <h4>Lynx</h4>
   <ul>
     <li>
+      <a href="https://youtu.be/AjY_YqoudqY">Presentation</a>
+    </li>
+    <li>
       <a href="https://github.com/reard96/supply-lynx">GitHub Repo</a>
+    </li>
+  </ul>
+  <h4>Playful</h4>
+  <ul>
+    <li>
+      <a href="https://streamable.com/7atom">Screencast</a>
+    </li>
+    <li>
+      <a href="https://github.com/sizplay/MovieMarker">GitHub Repo</a>
     </li>
   </ul>
   <h4>Don Dapper</h4>
@@ -36,7 +48,7 @@ published: true
       <a href="https://github.com/marcopchen/playful">GitHub Repo</a>
     </li>
   </ul>
-  <h4>University Database</h4>
+  <h4>University</h4>
   <ul>
     <li>
       <a href="https://uni-database.herokuapp.com">Deployed Site</a>
