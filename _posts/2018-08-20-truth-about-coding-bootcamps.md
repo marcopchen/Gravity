@@ -12,7 +12,7 @@ I finished my program toward the end of June 2018, and the one thing you're prob
 
 For me, doing the bootcamp was an investment that absolutely did pay off. I got my start in tech because of it, and the earning potential of my working career has now skyrocketed. However, I want to say that this may not be the case for everyone.
 
-You probably have seen advertisements about learning how to code in 3 months and making 6 figures right after at big companies like Google. That is totally unrealistic, and I hate that bootcamps use this kind of marketing. I see plenty of bootcamp grads taking 3-6 months to land a job, and very few end up at Google. Please keep realistic expectations and think twice before dropping everything for a bootcamp.
+You probably have seen advertisements about learning how to code in 3 months and making 6 figures right after at big companies like Google. That is totally unrealistic, and I hate that bootcamps use this kind of marketing. I see plenty of bootcamp grads taking 3-6 months to land a job, and very few end up at Google. Please keep realistic expectations and think twice before dropping everything for a bootcamp. Thankfully, I did a ton of research before I made my decision.
 
 Let me stress again that bootcamps do not guarantee a job. This isn’t to say that you won’t learn a lot from attending one. You will most likely come out knowing how to build some really cool stuff, but that may not be enough to land a job. The fact of the matter is that the market is quite saturated. There are so many of these bootcamps nowadays, and they’re churning out fresh grads just about every month. You’ll still be competing against graduates from traditional CS college programs as well.
 
