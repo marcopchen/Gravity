@@ -8,7 +8,7 @@ Okay, so I'm going to try to answer one question here. Are coding bootcamps wort
 
 You probably already know that a bootcamp program costs thousands and thousands of dollars. The one I did was part-time and cost $15,680. The full-time program at the same school costs $17,610. Those numbers are on par with what you can expect to attend a bootcamp program. That's a lot of money.
 
-I finished my program toward the end of June 2018, and the one thing you're probably wondering about the most is how the job search went. Well, I landed a job! It was after around 1.5 months from graduating. First of all, this is really fast. Most people don't get jobs that soon. You can check out [CIRR](https://cirr.org/) for data on how bootcamp graduates fare in getting employed and how much they get paid.
+I finished my program toward the end of June 2018, and the one thing you're probably wondering about the most is how the job search went. Well, I landed a job! It was after around 1.5 months from graduating. First of all, this is very fast. Most people don't get jobs that soon. You can check out [CIRR](https://cirr.org/) for data on how bootcamp graduates fare in getting employed and how much they get paid.
 
 For me, doing the bootcamp was an investment that absolutely did pay off. I got my start in tech because of it, and the earning potential of my working career has now skyrocketed. However, I want to say that this may not be the case for everyone.
 
