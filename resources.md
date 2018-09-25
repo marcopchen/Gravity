@@ -77,14 +77,14 @@ published: true
         </p>
     </li>
     <li>
-      <a href="https://www.referyourchasecard.com/21/4RZKBABMT9">Chase Ink Business Preferred</a>
+      <a href="https://www.referyourchasecard.com/21/TUZP9EIJ48">Chase Ink Business Preferred</a>
       <br>
         <p>
           This credit card currently has the highest sign-up bonus available from Chase. The bonus is 80,000 Ultimate Rewards points. That equals to $800 in cash or $1,000 in travel with the 1.25x redemption multiplier. If you have Chase Sapphire Reserve, the bonus is worth $1,200 in travel. The annual fee is $95 and not waived.
         </p>
     </li>
     <li>
-      <a href="https://www.referyourchasecard.com/6/2ZOE0GHIGH">Chase Sapphire Preferred</a>
+      <a href="https://www.referyourchasecard.com/6/TT2N9SRPI4">Chase Sapphire Preferred</a>
       <br>
         <p>
           This credit card has a sign-up bonus of 50,000 Ultimate Rewards points, and you can get 5,000 more for adding an authorized user. This card also has the 1.25x redemption multiplier. The annual fee is $95 and waived for the first year.
@@ -98,7 +98,7 @@ published: true
         </p>
     </li>
     <li>
-      <a href="https://www.referyourchasecard.com/18/YP4V4HOO4F">Chase Freedom Unlimited</a>
+      <a href="https://www.referyourchasecard.com/18/BNZ99D498F">Chase Freedom Unlimited</a>
       <br>
         <p>
           This credit card has a sign-up bonus of 15,000 Ultimate Rewards points or $150. There is no annual fee.
@@ -115,7 +115,7 @@ published: true
       <a href="http://refer.amex.us/MARCOCnrec?XLINK=MYCP">American Express Premier Rewards Gold</a>
       <br>
         <p>
-          This credit card has a sign-up bonus of 25,000 Membership Rewards points. The annual fee is $195 and waived for the first year.
+          This credit card has a sign-up bonus of 25,000 Membership Rewards points. The annual fee is $195 and waived for the first year. The card gives $100 airline credit and $120 dining credit per year.
         </p>
     </li>
     <li>
