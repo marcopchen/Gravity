@@ -112,7 +112,7 @@ published: true
         </p>
     </li>
     <li>
-      <a href="http://refer.amex.us/MARCOCksU5?XLINK=MYCP">American Express Premier Rewards Gold</a>
+      <a href="http://refer.amex.us/MARCOCksU5?XLINK=MYCP">American Express Gold Card</a>
       <br>
         <p>
           This credit card has a sign-up bonus of 50,000 Membership Rewards points and $100 in credit for dining. The annual fee is $250. The card gives $100 airline credit and $120 dining credit per calendar year. It also earns 4x points at restaurants and gas stations.
@@ -123,13 +123,6 @@ published: true
       <br>
         <p>
           This credit card has a sign-up bonus of 10,000 Membership Rewards points. There is no annual fee.
-        </p>
-    </li>
-    <li>
-      <a href="http://refer.amex.us/MARCOCYcVR?xl=cp15">American Express Gold Delta SkyMiles Business</a>
-      <br>
-        <p>
-          This credit card has a sign-up bonus of 30,000 Delta SkyMiles miles and $50 statement credit. The annual fee is $95 and waived for the first year.
         </p>
     </li>
   </ul>
