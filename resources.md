@@ -112,10 +112,10 @@ published: true
         </p>
     </li>
     <li>
-      <a href="http://refer.amex.us/MARCOCnrec?XLINK=MYCP">American Express Premier Rewards Gold</a>
+      <a href="http://refer.amex.us/MARCOCksU5?XLINK=MYCP">American Express Premier Rewards Gold</a>
       <br>
         <p>
-          This credit card has a sign-up bonus of 25,000 Membership Rewards points. The annual fee is $195 and waived for the first year. The card gives $100 airline credit and $120 dining credit per year.
+          This credit card has a sign-up bonus of 50,000 Membership Rewards points and $100 in credit for dining. The annual fee is $250. The card gives $100 airline credit and $120 dining credit per calendar year. It also earns 4x points at restaurants and gas stations.
         </p>
     </li>
     <li>
