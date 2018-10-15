@@ -1,8 +1,8 @@
 ---
 layout: post
 title: A Brutally Honest Review of Fullstack Academy
-date: 2018-10-13
-published: false
+date: 2018-10-14
+published: true
 ---
 
 I wanted to write this post after a good amount of time and reflection. Mainly though, I wanted to see how the job search panned out for everyone. It's now been close to 4 months since I finished the immersive software engineering program at [Fullstack Academy](https://www.fullstackacademy.com/), and I have some concerning thoughts. I want to make clear first that I attended the part-time program, and I was at the original campus in New York City. There is a Chicago campus, and the program can be done remotely as well.
