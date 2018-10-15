@@ -148,10 +148,10 @@ published: true
         </p>
     </li>
     <li>
-      <a href="https://turo.com/c/marcoc309">Turo</a>
+      <a href="https://cash.me/app/FFBDMHV">Square Cash</a>
       <br>
         <p>
-          I've used Turo before to rent a car in the NYC area, and it was pretty cheap. It's kind of like Airbnb, except with cars. Sign up here to get $25 off your first booking!
+          With the Cash Card from Squre Cash, you can get 10% off each visit to your choice of Domino's, Wendy's, Panda Express, Dairy Queen, Chipotle, Whole Foods, Shake Shack, or $1 off at coffee shops. You can change your choice once every 24 hours. Sign up here to get $5 in your account!
         </p>
     </li>
     <li>
@@ -165,14 +165,7 @@ published: true
       <a href="https://www.joinhoney.com/ref/n0kq1c">Honey</a>
       <br>
         <p>
-          Honey has helped me save money by automatically searching for available discount codes in any checkout. You can add it to your browser with a simple click.
-        </p>
-    </li>
-    <li>
-      <a href="https://share.robinhood.com/marcoc199">Robinhood</a>
-      <br>
-        <p>
-          I actually don't recommend investing in individual stocks. If you know the risk and still want to, I guess you might as well go with Robinhood. You get a free share of stock if you sign up here.
+          Honey has helped me save money by automatically searching for available discount codes in any checkout. You can add it to your browser with a simple click. Try it with ordering food as well!
         </p>
     </li>
     </ul>
