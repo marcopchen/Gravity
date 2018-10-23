@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Brutally Honest Review of Fullstack Academy
-date: 2018-10-13
+date: 2018-10-14
 published: true
 ---
 
