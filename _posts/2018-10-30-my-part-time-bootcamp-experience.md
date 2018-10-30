@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Part-Time Bootcamp Experience
+title: My Part-Time Coding Bootcamp Experience
 date: 2018-10-30
 published: true
 ---
