@@ -5,7 +5,7 @@ date: 2018-10-30
 published: true
 ---
 
-I wrote a review [here](http://www.marcopchen.com/2018/10/14/honest-review-of-fullstack-academy.html) about [Fullstack Academy](https://www.fullstackacademy.com/), but I left out the experience of actually attending the school. I want to speak specifically on doing a part-time bootcamp program, because there isn’t much out there on that.
+I wrote a review [here](http://www.marcopchen.com/2018/10/14/honest-review-of-fullstack-academy.html) about [Fullstack Academy](https://www.fullstackacademy.com/) in NYC, but I left out the experience of actually attending the school. I want to speak specifically on doing a part-time bootcamp program, because there isn’t much out there on that.
 
 First, I'll break down the schedule of part-time at Fullstack Academy. The program spans 6 months rather than 3 months. Because of how long the program is, it’s only offered twice per year. I made the decision in the summer of 2017 to attend Fullstack Academy, but I had to wait until January 2018 for the next cohort of the part-time program. Instead of coming into class every weekday, the classes take place on nights and weekends. There’s class for around 3 hours every Tuesday and Thursday. There’s also one weekend about every month with class for almost the whole weekend from morning to night. If you add that up, it comes out to much less time for instruction than the full-time program. Because of that, those who do this part-time program need to put in a lot of time outside of class to grasp everything. That’s on top of responsibilities like a day job and even family for some. On the other hand, those in the full-time program spend around 40 hours a week in class.
 
