@@ -5,8 +5,6 @@ date: 2019-01-20
 published: false
 ---
 
-2018 Financial Summary
-
 This is a continuation of my series of wrapping up the year from a personal finance standpoint, which I started in 2017 [here](http://www.marcopchen.com/2017/12/31/2017-financial-summary-part-1.html) and [here](http://www.marcopchen.com/2017/12/31/2017-financial-summary-part-2.html). Again, I’ll break down my income, expenses, savings, and investments. I think you’ll find that I’m not as frugal as other financial independence bloggers, yet I’m still able to save so much money.
 
 Since almost all of my money is tied up in the stock market through index funds, my net worth can fluctuate greatly. The market hasn’t been great in 2018 due to the last quarter, and my net worth reflects that. Also, a majority of my money is held pre-tax. I’ll have to pay taxes on that when I retire, but my tax rate will be much lower at that point without income.
