@@ -58,4 +58,4 @@ Speaking of side hustles, I didn’t do much in 2018. I only opened a few bank a
 
 I was very focused on getting my career change off the ground. That came with the biggest single expense of all. I had to spend $15,680 for the bootcamp program to help me get into the field I am now, but $2,650 of that was paid in 2017. Thankfully, doing the program seems to have paid off. I discussed [here](http://www.marcopchen.com/2018/10/30/my-part-time-bootcamp-experience.html) about how doing it part-time allowed me to make the career change while continuing to have steady income, so I was still building my net worth all throughout.
 
-![2018 Net Worth Chart](marcopchen.github.io/2018-net-worth.png)
+![2018 Net Worth Chart](http://www.marcopchen.com/2018-net-worth.png)
