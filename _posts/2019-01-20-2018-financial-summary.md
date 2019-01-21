@@ -23,7 +23,7 @@ The second biggest expense for an average person is transportation, which is usu
 
 The third biggest expense for an average person is food, and here is where I don’t really cut back. I don’t care to cook at all, so I don’t. I don’t eat breakfast, and lunch is provided by my job on workdays. Dinners and meals on weekends are usually takeout. No, I don’t meticulously plan out my meals or meal prep ahead of time like the other financial independence bloggers do. I just try to keep my food cost under $7-$8 per day on average. However, I actually started dieting in 2019 with a version of [intermittent fasting](https://en.wikipedia.org/wiki/Intermittent_fasting) that I have been able to stick with pretty consistently. It’s helping cut costs and hopefully my body fat percentage.  
 
-Below is a chart with my recurring expenses from 2018. As you can see, housing took up an overwhelming majority. I think if you can reduce that expense, you take a great burden off and not have to worry as much as when spending elsewhere. I really recommend breaking down expenses like this to show exactly where money is going.
+Below is a chart with my recurring expenses from 2018. As you can see, housing took up an overwhelming majority. If you can reduce that expense, you take a great burden off and not have to worry as much as when spending elsewhere. I really recommend breaking down expenses like this to show exactly where money is going.
 
 **Expense Type**|**Recurring Cost**|**Times Paid**|**Extra Cost**|**Total Cost**
 :-----:|:-----:|:-----:|:-----:|:-----:
