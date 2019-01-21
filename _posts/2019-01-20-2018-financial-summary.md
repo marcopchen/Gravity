@@ -44,6 +44,7 @@ Food/Groceries (estimate)|$200.00|12| |$2,400.00
 Bus between NY and PA (average)|$123.625|4| |$494.50
 Haircut with Tip|$20.00|4| |$80.00
 
+
 Let’s go over expenses outside of recurring ones. The only travel I did was to Las Vegas in the very, very beginning of 2018, which I discussed [here](http://www.marcopchen.com/2018/01/08/kicking-off-the-year-in-vegas.html). Including a silly $300 bet that I made, I spent about $800 on that trip. The flight was paid for with Delta Air Lines miles. I also redeemed Chase Ultimate Rewards points for travel for my parents, and we still have so many points left over.
 
 Unlike 2017, I didn’t buy a phone or a computer in 2018. I did buy a used Apple Watch for around $100 and a used iPad with AppleCare+ for $250. I ended up not using the iPad much, so I’m giving it to my dad. If you noticed from 2017, giving parents my old electronic devices is a consistent theme in my life. I'm planning to buy a new iPhone this year, so I'll give my current one to my parents again. They're excited to both have iPhones. I did also buy a brand new Xbox One X, a new Nintendo Switch, and games for each. After some discounts and an old Xbox One trade-in, I spent just over $600 on those consoles and games.
