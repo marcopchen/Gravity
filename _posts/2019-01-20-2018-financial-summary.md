@@ -27,6 +27,25 @@ The third biggest expense for an average person is food, and here is where I don
 
 Below is a chart with my recurring expenses from 2018. As you can see, housing took up an overwhelming majority. I think if you can reduce that expense, you take a great burden off and not have to worry as much as when spending elsewhere. I really recommend breaking down expenses like this to show exactly where money is going.
 
+**Expense**|**Recurring Cost**|**Times Paid**|**Extra Cost**|**Total Cost**
+:-----:|:-----:|:-----:|:-----:|:-----:
+Maintenence/Common Charges for Bronx|$850.57|12| |$10,206.84
+Renovation Common Charge for Bronx|$46.97|7| |$328.79
+Rent for Pittsburgh|$600.00|6|$97.00|$3,697.00
+Electricity for Pittsburgh|$36.89|1| |$36.89
+Internet for Bronx 1|$75.29|2| |$150.58
+Internet for Bronx 2|$27.48|9|$10.00|$257.32
+Music Streaming|$2.50|12| |$30.00
+Dental Insurance|$13.50|4| |$54.00
+Gym in Pittsburgh|$25.00|4| |$100.00
+Internet for Pittsburgh|$20.00|3|$10.00|$70.00
+Cell Phone Service|$20.00|12| |$240.00
+Subway NYC (pre-tax)|$121.00|7.5| |$907.50
+Electricity for Bronx (average)|$64.50|5| |$322.50
+Food/Groceries (estimate)|$200.00|12| |$2,400.00
+Bus between NY and PA (average)|$123.625|4| |$494.50
+Haircut with Tip|$20.00|4| |$80.00
+
 Let’s go over expenses outside of recurring ones. The only travel I did was to Las Vegas in the very, very beginning of 2018, which I discussed [here](http://www.marcopchen.com/2018/01/08/kicking-off-the-year-in-vegas.html). Including a silly $300 bet that I made, I spent about $800 on that trip. The flight was paid for with Delta Air Lines miles. I also redeemed Chase Ultimate Rewards points for travel for my parents, and we still have so many points left over.
 
 Unlike 2017, I didn’t buy a phone or a computer. I did buy a used Apple Watch for around $100 and a used iPad with AppleCare+ for $250. I ended up not using the iPad much, so I’m giving it to my dad. If you noticed from in 2017, giving my parents my old electronic devices is a theme in my life. I did also buy a brand new Xbox One X, a new Nintendo Switch, and games for each. After some discounts and an old Xbox One trade-in, I spent just over $600.
