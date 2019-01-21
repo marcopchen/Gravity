@@ -31,8 +31,8 @@ Maintenence/Common Charges for Bronx|$850.57|12| |$10,206.84
 Renovation Common Charge for Bronx|$46.97|7| |$328.79
 Rent for Pittsburgh|$600.00|6|$97.00|$3,697.00
 Electricity for Pittsburgh|$36.89|1| |$36.89
-Internet for Bronx 1|$75.29|2| |$150.58
-Internet for Bronx 2|$27.48|9|$10.00|$257.32
+Internet for Bronx Part 1|$75.29|2| |$150.58
+Internet for Bronx Part 2|$27.48|9|$10.00|$257.32
 Music Streaming|$2.50|12| |$30.00
 Dental Insurance|$13.50|4| |$54.00
 Gym in Pittsburgh|$25.00|4| |$100.00
