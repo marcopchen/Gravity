@@ -84,7 +84,7 @@ published: true
         </p>
     </li>
     <li>
-      <a href="https://www.referyourchasecard.com/6/DLCGKY1MYN">Chase Sapphire Preferred</a>
+      <a href="https://www.referyourchasecard.com/6a/XZV5VIOQE1">Chase Sapphire Preferred</a>
       <br>
         <p>
           This credit card has a sign-up bonus of 50,000 Ultimate Rewards points, and you can get 5,000 more for adding an authorized user. This card also has the 1.25x redemption multiplier. The annual fee is $95 and waived for the first year.
