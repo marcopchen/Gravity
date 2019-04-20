@@ -30,7 +30,7 @@ published: true
       <a target="_blank" href="https://www.amazon.com/gp/product/0997584718/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0997584718&linkCode=as2&tag=marcopchen-20&linkId=b16d83567afbfd75b7d60f33f4bc3995">Set for Life</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=marcopchen-20&l=am2&o=1&a=0997584718" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
       <br>
         <p>
-          This one is different than most FI content. It's published by Bigger Pockets, which is a company all about real estate investing. The book itself isn't really focused on REI, but it highly recommends REI as the way to get to financial independence over investing in the stock market.
+          This one is different than most FI content. It's published by Bigger Pockets, which is a company all about real estate investing. The book itself isn't really focused on REI, but it highly recommends REI as a way to get to financial independence over investing in the stock market. It's basically about getting to FI as soon as possible, which involves more risky ventures such as entrepeneurship.
         </p>
     </li>
     <li>
