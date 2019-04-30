@@ -116,7 +116,7 @@ published: true
   <h4>Bank Account</h4>
     <ul>
     <li>
-      <a href="https://www.schwab.com/public/schwab/nn/refer-prospect.html">Charles Schwab Checking and Brokerage</a>
+      <a href="https://www.schwab.com/public/schwab/nn/promo/refer-prospect.html?refrid=REFERY3QN4H3C">Charles Schwab Checking and Brokerage</a>
       <br>
         <p>
           You get $100 from using this link to sign up. I don't get anything from this. I just want everyone to know how good the checking account from Schwab is. There are no monthly fees at all, and you get reimbursed for all ATM fees. This is perfect for international travel, because you never have to worry about exchanging money. Whenever I need cash even locally, I just go to any ATM. To open the checking account, you do have to open the brokerage account as well and get your credit report pulled. Once you open the brokerage account with Schwab, you can do any kind of investing there. For example, I set up my Roth IRA with Schwab.
@@ -138,13 +138,6 @@ published: true
       <br>
         <p>
           With the Cash Card from Squre Cash, you can get 10% off each visit to your choice of Domino's, Wendy's, Panda Express, Dairy Queen, Chipotle, Whole Foods, Shake Shack, or $1 off at coffee shops. You can change your choice once every 24 hours. Sign up here to get $5 in your account!
-        </p>
-    </li>
-    <li>
-      <a href="https://refer.taxact.com/s/marcopchen">TaxAct</a>
-      <br>
-        <p>
-          I use TaxAct to file my taxes conveniently online. Get 20% off here.
         </p>
     </li>
     <li>
