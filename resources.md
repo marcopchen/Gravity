@@ -98,6 +98,13 @@ published: true
         </p>
     </li>
     <li>
+      <a href="https://www.referyourchasecard.com/2/2C7NQCACB8">Chase Freedom</a>
+      <br>
+        <p>
+          This credit card has a sign-up bonus of 15,000 Ultimate Rewards points or $150. There is no annual fee.
+        </p>
+    </li>
+    <li>
       <a href="http://refer.amex.us/MARCOCruEg?xl=cp20">American Express Gold Card</a>
       <br>
         <p>
@@ -105,7 +112,7 @@ published: true
         </p>
     </li>
     <li>
-      <a href="http://refer.amex.us/MARCOC0rMU?xl=cp20">American Express Blue Business Plus</a>
+      <a href="http://refer.amex.us/MARCOC9LIR?XLINK=MYCP">American Express Blue Business Plus</a>
       <br>
         <p>
           This credit card has a sign-up bonus of 10,000 Membership Rewards points. There is no annual fee.
