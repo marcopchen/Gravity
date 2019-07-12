@@ -112,7 +112,7 @@ published: true
         </p>
     </li>
     <li>
-      <a href="http://refer.amex.us/MARCOC9LIR?XLINK=MYCP">American Express Blue Business Plus</a>
+      <a href="http://refer.amex.us/MARCOCS1Q8?xl=cp27">American Express Blue Business Plus</a>
       <br>
         <p>
           This credit card has a sign-up bonus of 10,000 Membership Rewards points. There is no annual fee.
