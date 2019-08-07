@@ -36,7 +36,7 @@ Internet for Bronx Part 2|$27.48|9|$10.00|$257.32
 Music Streaming|$2.50|12| |$30.00
 Dental Insurance|$13.50|4| |$54.00
 Gym in Pittsburgh|$25.00|4| |$100.00
-Internet for Pittsburgh|$20.00|3|$10.00|$70.00
+Internet for Pittsburgh|$20.00|3.5| |$70.00
 Cell Phone Service|$20.00|12| |$240.00
 Subway NYC (pre-tax)|$121.00|7.5| |$907.50
 Electricity for Bronx (average)|$64.50|5| |$322.50
