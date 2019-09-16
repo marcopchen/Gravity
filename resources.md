@@ -91,14 +91,14 @@ published: true
         </p>
     </li>
     <li>
-      <a href="https://www.referyourchasecard.com/18a/OJOVM385KA">Chase Freedom Unlimited</a>
+      <a href="https://www.referyourchasecard.com/18a/3AKTICR1H6">Chase Freedom Unlimited</a>
       <br>
         <p>
           This credit card has a sign-up bonus of 15,000 Ultimate Rewards points or $150. There is no annual fee.
         </p>
     </li>
     <li>
-      <a href="https://www.referyourchasecard.com/2/2C7NQCACB8">Chase Freedom</a>
+      <a href="https://www.referyourchasecard.com/2/U8EG2S626F">Chase Freedom</a>
       <br>
         <p>
           This credit card has a sign-up bonus of 15,000 Ultimate Rewards points or $150. There is no annual fee.
