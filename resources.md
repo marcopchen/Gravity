@@ -105,14 +105,7 @@ published: true
         </p>
     </li>
     <li>
-      <a href="http://refer.amex.us/MARCOCruEg?xl=cp20">American Express Gold Card</a>
-      <br>
-        <p>
-          This credit card has a sign-up bonus of 40,000 Membership Rewards points. The annual fee is $250. The card gives $100 airline credit and $120 dining credit per calendar year. It also earns 4x points at restaurants and gas stations.
-        </p>
-    </li>
-    <li>
-      <a href="http://refer.amex.us/MARCOCS1Q8?xl=cp27">American Express Blue Business Plus</a>
+      <a href="http://refer.amex.us/MARCOC59wX?XLINK=MYCP">American Express Blue Business Plus</a>
       <br>
         <p>
           This credit card has a sign-up bonus of 10,000 Membership Rewards points. There is no annual fee.
