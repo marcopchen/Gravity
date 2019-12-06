@@ -77,7 +77,7 @@ published: true
         </p>
     </li>
     <li>
-      <a href="https://www.referyourchasecard.com/21a/H3OGGICJ3S">Chase Ink Business Preferred</a>
+      <a href="https://www.referyourchasecard.com/21a/K5L84U4XAT">Chase Ink Business Preferred</a>
       <br>
         <p>
           This credit card currently has the highest sign-up bonus available from Chase. The bonus is 80,000 Ultimate Rewards points. That equals to $800 in cash or $1,000 in travel with the 1.25x redemption multiplier. If you have Chase Sapphire Reserve, the bonus is worth $1,200 in travel. The annual fee is $95 and not waived.
