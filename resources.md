@@ -84,21 +84,21 @@ published: true
         </p>
     </li>
     <li>
-      <a href="https://www.referyourchasecard.com/27/0UNFENGKOX">Chase Ink Business Unlimited</a>
+      <a href="https://www.referyourchasecard.com/27/410C8IT4DZ">Chase Ink Business Unlimited</a>
       <br>
         <p>
           This credit card has a sign-up bonus of 50,000 Ultimate Rewards points. This card also has the 1.25x redemption multiplier. There is no annual fee.
         </p>
     </li>
     <li>
-      <a href="https://www.referyourchasecard.com/18a/3AKTICR1H6">Chase Freedom Unlimited</a>
+      <a href="https://www.referyourchasecard.com/2f/76ZBYHYI80">Chase Freedom Unlimited</a>
       <br>
         <p>
           This credit card has a sign-up bonus of 15,000 Ultimate Rewards points or $150. There is no annual fee.
         </p>
     </li>
     <li>
-      <a href="https://www.referyourchasecard.com/2/U8EG2S626F">Chase Freedom</a>
+      <a href="https://www.referyourchasecard.com/2f/76ZBYHYI80">Chase Freedom</a>
       <br>
         <p>
           This credit card has a sign-up bonus of 15,000 Ultimate Rewards points or $150. There is no annual fee.
