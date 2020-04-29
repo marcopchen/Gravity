@@ -134,13 +134,6 @@ published: true
         </p>
     </li>
     <li>
-      <a href="https://cash.me/app/FFBDMHV">Square Cash</a>
-      <br>
-        <p>
-          With the Cash Card from Squre Cash, you can get 10% off each visit to your choice of Domino's, Wendy's, Panda Express, Dairy Queen, Chipotle, Whole Foods, Shake Shack, or $1 off at coffee shops. You can change your choice once every 24 hours. Sign up here to get $5 in your account!
-        </p>
-    </li>
-    <li>
       <a href="https://www.joinhoney.com/ref/n0kq1c">Honey</a>
       <br>
         <p>
